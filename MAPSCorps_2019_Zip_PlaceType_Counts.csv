@@ -1,0 +1,644 @@
+ZCTA_Zipcode,PlaceType,count_of_Active_PlaceStatus
+60131,Trade Service,1
+60302,Dining,1
+60302,Retail,1
+60402,Trade Service,1
+60419,Religious (except school or residence),1
+60601,Health Services,1
+60601,Social Services & Political Advocacy,1
+60601,Trade Service,1
+60602,"Financial, Insurance, Real Estate, Legal, and Professional",2
+60602,Health Services,1
+60603,"Financial, Insurance, Real Estate, Legal, and Professional",2
+60603,Social Services & Political Advocacy,1
+60604,"Financial, Insurance, Real Estate, Legal, and Professional",1
+60605,Trade Service,1
+60606,Dining,2
+60606,"Financial, Insurance, Real Estate, Legal, and Professional",2
+60607,Arts and Entertainment,38
+60607,Childcare and Schools,101
+60607,Dining,224
+60607,"Financial, Insurance, Real Estate, Legal, and Professional",298
+60607,Fitness,27
+60607,Health Services,95
+60607,Industrial,21
+60607,Other,12
+60607,Personal Service,65
+60607,Public Services,23
+60607,Religious (except school or residence),13
+60607,Retail,170
+60607,Service or Programmed Residential Space,19
+60607,Social Services & Political Advocacy,57
+60607,Trade Service,152
+60607,Unknown,1
+60607,"Wholesale, storage and transit",44
+60608,Arts and Entertainment,38
+60608,Childcare and Schools,58
+60608,Dining,209
+60608,"Financial, Insurance, Real Estate, Legal, and Professional",151
+60608,Fitness,9
+60608,Health Services,77
+60608,Industrial,53
+60608,Other,5
+60608,Personal Service,119
+60608,Public Services,25
+60608,Religious (except school or residence),38
+60608,Retail,269
+60608,Service or Programmed Residential Space,12
+60608,Social Services & Political Advocacy,50
+60608,Trade Service,200
+60608,"Wholesale, storage and transit",111
+60609,Arts and Entertainment,19
+60609,Childcare and Schools,58
+60609,Dining,109
+60609,"Financial, Insurance, Real Estate, Legal, and Professional",77
+60609,Fitness,13
+60609,Health Services,42
+60609,Industrial,84
+60609,Other,4
+60609,Personal Service,58
+60609,Public Services,34
+60609,Religious (except school or residence),74
+60609,Retail,236
+60609,Service or Programmed Residential Space,9
+60609,Social Services & Political Advocacy,34
+60609,Trade Service,159
+60609,"Wholesale, storage and transit",89
+60611,"Financial, Insurance, Real Estate, Legal, and Professional",2
+60612,Arts and Entertainment,24
+60612,Childcare and Schools,90
+60612,Dining,40
+60612,"Financial, Insurance, Real Estate, Legal, and Professional",80
+60612,Fitness,9
+60612,Health Services,195
+60612,Industrial,57
+60612,Other,13
+60612,Personal Service,23
+60612,Public Services,32
+60612,Religious (except school or residence),54
+60612,Retail,102
+60612,Service or Programmed Residential Space,15
+60612,Social Services & Political Advocacy,55
+60612,Trade Service,167
+60612,Unknown,1
+60612,"Wholesale, storage and transit",54
+60613,Arts and Entertainment,13
+60613,Childcare and Schools,11
+60613,Dining,15
+60613,"Financial, Insurance, Real Estate, Legal, and Professional",79
+60613,Fitness,5
+60613,Health Services,46
+60613,Industrial,1
+60613,Other,1
+60613,Personal Service,22
+60613,Public Services,5
+60613,Religious (except school or residence),2
+60613,Retail,39
+60613,Service or Programmed Residential Space,9
+60613,Social Services & Political Advocacy,12
+60613,Trade Service,32
+60613,"Wholesale, storage and transit",12
+60614,Arts and Entertainment,2
+60614,Childcare and Schools,4
+60614,Dining,5
+60614,"Financial, Insurance, Real Estate, Legal, and Professional",24
+60614,Fitness,1
+60614,Health Services,6
+60614,Industrial,7
+60614,Personal Service,2
+60614,Retail,14
+60614,Social Services & Political Advocacy,1
+60614,Trade Service,18
+60614,"Wholesale, storage and transit",3
+60615,Arts and Entertainment,15
+60615,Childcare and Schools,27
+60615,Dining,61
+60615,"Financial, Insurance, Real Estate, Legal, and Professional",83
+60615,Fitness,6
+60615,Health Services,96
+60615,Other,5
+60615,Personal Service,33
+60615,Public Services,13
+60615,Religious (except school or residence),13
+60615,Retail,61
+60615,Service or Programmed Residential Space,19
+60615,Social Services & Political Advocacy,18
+60615,Trade Service,27
+60615,"Wholesale, storage and transit",4
+60616,Arts and Entertainment,25
+60616,Childcare and Schools,50
+60616,Dining,115
+60616,"Financial, Insurance, Real Estate, Legal, and Professional",60
+60616,Fitness,6
+60616,Health Services,60
+60616,Industrial,11
+60616,Other,3
+60616,Personal Service,42
+60616,Public Services,6
+60616,Religious (except school or residence),19
+60616,Retail,103
+60616,Service or Programmed Residential Space,13
+60616,Social Services & Political Advocacy,20
+60616,Trade Service,51
+60616,"Wholesale, storage and transit",34
+60617,Arts and Entertainment,22
+60617,Childcare and Schools,74
+60617,Dining,72
+60617,"Financial, Insurance, Real Estate, Legal, and Professional",78
+60617,Fitness,10
+60617,Health Services,58
+60617,Industrial,16
+60617,Other,5
+60617,Personal Service,60
+60617,Public Services,20
+60617,Religious (except school or residence),79
+60617,Retail,136
+60617,Service or Programmed Residential Space,20
+60617,Social Services & Political Advocacy,14
+60617,Trade Service,95
+60617,Unknown,1
+60617,"Wholesale, storage and transit",25
+60618,Arts and Entertainment,59
+60618,Childcare and Schools,41
+60618,Dining,152
+60618,"Financial, Insurance, Real Estate, Legal, and Professional",225
+60618,Fitness,22
+60618,Health Services,72
+60618,Industrial,16
+60618,Other,1
+60618,Personal Service,92
+60618,Public Services,12
+60618,Religious (except school or residence),23
+60618,Retail,205
+60618,Service or Programmed Residential Space,3
+60618,Social Services & Political Advocacy,29
+60618,Trade Service,305
+60618,"Wholesale, storage and transit",76
+60619,Arts and Entertainment,24
+60619,Childcare and Schools,76
+60619,Dining,96
+60619,"Financial, Insurance, Real Estate, Legal, and Professional",96
+60619,Fitness,6
+60619,Health Services,49
+60619,Industrial,5
+60619,Other,3
+60619,Personal Service,120
+60619,Public Services,12
+60619,Religious (except school or residence),84
+60619,Retail,174
+60619,Service or Programmed Residential Space,10
+60619,Social Services & Political Advocacy,29
+60619,Trade Service,70
+60619,"Wholesale, storage and transit",8
+60620,Arts and Entertainment,16
+60620,Childcare and Schools,60
+60620,Dining,50
+60620,"Financial, Insurance, Real Estate, Legal, and Professional",51
+60620,Fitness,6
+60620,Health Services,18
+60620,Industrial,4
+60620,Other,1
+60620,Personal Service,40
+60620,Public Services,7
+60620,Religious (except school or residence),103
+60620,Retail,126
+60620,Service or Programmed Residential Space,16
+60620,Social Services & Political Advocacy,23
+60620,Trade Service,69
+60620,Unknown,1
+60620,"Wholesale, storage and transit",19
+60621,Childcare and Schools,33
+60621,Dining,17
+60621,"Financial, Insurance, Real Estate, Legal, and Professional",13
+60621,Fitness,2
+60621,Health Services,15
+60621,Industrial,2
+60621,Other,1
+60621,Personal Service,17
+60621,Public Services,4
+60621,Religious (except school or residence),74
+60621,Retail,48
+60621,Service or Programmed Residential Space,13
+60621,Social Services & Political Advocacy,15
+60621,Trade Service,17
+60621,"Wholesale, storage and transit",4
+60622,Arts and Entertainment,2
+60622,Childcare and Schools,2
+60622,Dining,6
+60622,"Financial, Insurance, Real Estate, Legal, and Professional",11
+60622,Fitness,1
+60622,Health Services,5
+60622,Industrial,4
+60622,Other,1
+60622,Personal Service,6
+60622,Public Services,1
+60622,Religious (except school or residence),1
+60622,Retail,5
+60622,Service or Programmed Residential Space,1
+60622,Social Services & Political Advocacy,3
+60622,Trade Service,22
+60622,"Wholesale, storage and transit",2
+60623,Arts and Entertainment,25
+60623,Childcare and Schools,67
+60623,Dining,122
+60623,"Financial, Insurance, Real Estate, Legal, and Professional",120
+60623,Fitness,8
+60623,Health Services,72
+60623,Industrial,43
+60623,Other,11
+60623,Personal Service,94
+60623,Public Services,17
+60623,Religious (except school or residence),29
+60623,Retail,325
+60623,Service or Programmed Residential Space,8
+60623,Social Services & Political Advocacy,30
+60623,Trade Service,153
+60623,"Wholesale, storage and transit",28
+60624,Arts and Entertainment,10
+60624,Childcare and Schools,36
+60624,Dining,24
+60624,"Financial, Insurance, Real Estate, Legal, and Professional",10
+60624,Fitness,3
+60624,Health Services,19
+60624,Industrial,34
+60624,Other,2
+60624,Personal Service,22
+60624,Public Services,11
+60624,Religious (except school or residence),49
+60624,Retail,115
+60624,Service or Programmed Residential Space,11
+60624,Social Services & Political Advocacy,23
+60624,Trade Service,60
+60624,"Wholesale, storage and transit",22
+60625,Arts and Entertainment,53
+60625,Childcare and Schools,49
+60625,Dining,182
+60625,"Financial, Insurance, Real Estate, Legal, and Professional",193
+60625,Fitness,28
+60625,Health Services,154
+60625,Industrial,5
+60625,Other,3
+60625,Personal Service,99
+60625,Public Services,8
+60625,Religious (except school or residence),27
+60625,Retail,255
+60625,Service or Programmed Residential Space,11
+60625,Social Services & Political Advocacy,25
+60625,Trade Service,226
+60625,Unknown,3
+60625,"Wholesale, storage and transit",34
+60628,Arts and Entertainment,16
+60628,Childcare and Schools,49
+60628,Dining,56
+60628,"Financial, Insurance, Real Estate, Legal, and Professional",45
+60628,Fitness,9
+60628,Health Services,19
+60628,Industrial,20
+60628,Other,3
+60628,Personal Service,56
+60628,Public Services,15
+60628,Religious (except school or residence),120
+60628,Retail,124
+60628,Service or Programmed Residential Space,6
+60628,Social Services & Political Advocacy,37
+60628,Trade Service,68
+60628,"Wholesale, storage and transit",21
+60629,Arts and Entertainment,25
+60629,Childcare and Schools,70
+60629,Dining,134
+60629,"Financial, Insurance, Real Estate, Legal, and Professional",113
+60629,Fitness,15
+60629,Health Services,86
+60629,Industrial,5
+60629,Other,1
+60629,Personal Service,113
+60629,Public Services,10
+60629,Religious (except school or residence),44
+60629,Retail,182
+60629,Service or Programmed Residential Space,15
+60629,Social Services & Political Advocacy,20
+60629,Trade Service,114
+60629,"Wholesale, storage and transit",18
+60630,Arts and Entertainment,24
+60630,Childcare and Schools,16
+60630,Dining,40
+60630,"Financial, Insurance, Real Estate, Legal, and Professional",113
+60630,Fitness,13
+60630,Health Services,49
+60630,Industrial,5
+60630,Other,1
+60630,Personal Service,40
+60630,Public Services,7
+60630,Religious (except school or residence),18
+60630,Retail,89
+60630,Service or Programmed Residential Space,1
+60630,Social Services & Political Advocacy,19
+60630,Trade Service,212
+60630,"Wholesale, storage and transit",41
+60632,Arts and Entertainment,28
+60632,Childcare and Schools,48
+60632,Dining,191
+60632,"Financial, Insurance, Real Estate, Legal, and Professional",131
+60632,Fitness,11
+60632,Health Services,73
+60632,Industrial,67
+60632,Other,3
+60632,Personal Service,113
+60632,Public Services,18
+60632,Religious (except school or residence),23
+60632,Retail,279
+60632,Service or Programmed Residential Space,6
+60632,Social Services & Political Advocacy,7
+60632,Trade Service,202
+60632,Unknown,2
+60632,"Wholesale, storage and transit",108
+60633,Arts and Entertainment,10
+60633,Childcare and Schools,11
+60633,Dining,17
+60633,"Financial, Insurance, Real Estate, Legal, and Professional",7
+60633,Health Services,5
+60633,Industrial,19
+60633,Personal Service,8
+60633,Public Services,8
+60633,Religious (except school or residence),11
+60633,Retail,19
+60633,Service or Programmed Residential Space,1
+60633,Social Services & Political Advocacy,5
+60633,Trade Service,27
+60633,Unknown,1
+60633,"Wholesale, storage and transit",18
+60634,Arts and Entertainment,19
+60634,Childcare and Schools,33
+60634,Dining,66
+60634,"Financial, Insurance, Real Estate, Legal, and Professional",119
+60634,Fitness,10
+60634,Health Services,101
+60634,Industrial,5
+60634,Other,2
+60634,Personal Service,54
+60634,Public Services,5
+60634,Religious (except school or residence),24
+60634,Retail,97
+60634,Service or Programmed Residential Space,1
+60634,Social Services & Political Advocacy,16
+60634,Trade Service,200
+60634,"Wholesale, storage and transit",45
+60636,Childcare and Schools,32
+60636,Dining,37
+60636,"Financial, Insurance, Real Estate, Legal, and Professional",24
+60636,Fitness,4
+60636,Health Services,8
+60636,Industrial,7
+60636,Other,5
+60636,Personal Service,41
+60636,Public Services,5
+60636,Religious (except school or residence),85
+60636,Retail,120
+60636,Service or Programmed Residential Space,7
+60636,Social Services & Political Advocacy,10
+60636,Trade Service,65
+60636,"Wholesale, storage and transit",8
+60637,Arts and Entertainment,16
+60637,Childcare and Schools,66
+60637,Dining,36
+60637,"Financial, Insurance, Real Estate, Legal, and Professional",29
+60637,Fitness,6
+60637,Health Services,19
+60637,Industrial,1
+60637,Other,7
+60637,Personal Service,30
+60637,Public Services,10
+60637,Religious (except school or residence),54
+60637,Retail,38
+60637,Service or Programmed Residential Space,10
+60637,Social Services & Political Advocacy,25
+60637,Trade Service,33
+60637,"Wholesale, storage and transit",11
+60638,Arts and Entertainment,14
+60638,Childcare and Schools,7
+60638,Dining,38
+60638,"Financial, Insurance, Real Estate, Legal, and Professional",80
+60638,Fitness,4
+60638,Health Services,64
+60638,Industrial,2
+60638,Personal Service,33
+60638,Public Services,2
+60638,Religious (except school or residence),3
+60638,Retail,39
+60638,Service or Programmed Residential Space,3
+60638,Social Services & Political Advocacy,6
+60638,Trade Service,66
+60638,"Wholesale, storage and transit",29
+60639,Arts and Entertainment,30
+60639,Childcare and Schools,48
+60639,Dining,190
+60639,"Financial, Insurance, Real Estate, Legal, and Professional",166
+60639,Fitness,19
+60639,Health Services,74
+60639,Industrial,57
+60639,Personal Service,164
+60639,Public Services,15
+60639,Religious (except school or residence),86
+60639,Retail,374
+60639,Service or Programmed Residential Space,6
+60639,Social Services & Political Advocacy,28
+60639,Trade Service,323
+60639,Unknown,3
+60639,"Wholesale, storage and transit",83
+60640,Arts and Entertainment,64
+60640,Childcare and Schools,36
+60640,Dining,111
+60640,"Financial, Insurance, Real Estate, Legal, and Professional",209
+60640,Fitness,12
+60640,Health Services,181
+60640,Industrial,8
+60640,Other,9
+60640,Personal Service,65
+60640,Public Services,9
+60640,Religious (except school or residence),26
+60640,Retail,148
+60640,Service or Programmed Residential Space,49
+60640,Social Services & Political Advocacy,56
+60640,Trade Service,198
+60640,Unknown,2
+60640,"Wholesale, storage and transit",36
+60641,Arts and Entertainment,53
+60641,Childcare and Schools,50
+60641,Dining,135
+60641,"Financial, Insurance, Real Estate, Legal, and Professional",243
+60641,Fitness,28
+60641,Health Services,114
+60641,Industrial,22
+60641,Other,2
+60641,Personal Service,110
+60641,Public Services,12
+60641,Religious (except school or residence),39
+60641,Retail,254
+60641,Service or Programmed Residential Space,8
+60641,Social Services & Political Advocacy,41
+60641,Trade Service,434
+60641,"Wholesale, storage and transit",74
+60642,Arts and Entertainment,1
+60642,Dining,1
+60642,"Financial, Insurance, Real Estate, Legal, and Professional",15
+60642,Industrial,4
+60642,Retail,6
+60642,Social Services & Political Advocacy,1
+60642,Trade Service,7
+60642,"Wholesale, storage and transit",8
+60643,Arts and Entertainment,27
+60643,Childcare and Schools,51
+60643,Dining,50
+60643,"Financial, Insurance, Real Estate, Legal, and Professional",107
+60643,Fitness,16
+60643,Health Services,62
+60643,Industrial,3
+60643,Other,2
+60643,Personal Service,60
+60643,Public Services,17
+60643,Religious (except school or residence),58
+60643,Retail,106
+60643,Service or Programmed Residential Space,7
+60643,Social Services & Political Advocacy,17
+60643,Trade Service,93
+60643,"Wholesale, storage and transit",9
+60644,Arts and Entertainment,6
+60644,Childcare and Schools,20
+60644,Dining,27
+60644,"Financial, Insurance, Real Estate, Legal, and Professional",32
+60644,Fitness,3
+60644,Health Services,17
+60644,Industrial,12
+60644,Personal Service,32
+60644,Public Services,5
+60644,Religious (except school or residence),73
+60644,Retail,88
+60644,Service or Programmed Residential Space,15
+60644,Social Services & Political Advocacy,4
+60644,Trade Service,59
+60644,Unknown,1
+60644,"Wholesale, storage and transit",14
+60647,Arts and Entertainment,71
+60647,Childcare and Schools,53
+60647,Dining,205
+60647,"Financial, Insurance, Real Estate, Legal, and Professional",219
+60647,Fitness,27
+60647,Health Services,116
+60647,Industrial,10
+60647,Other,4
+60647,Personal Service,131
+60647,Public Services,13
+60647,Religious (except school or residence),38
+60647,Retail,260
+60647,Service or Programmed Residential Space,14
+60647,Social Services & Political Advocacy,31
+60647,Trade Service,287
+60647,Unknown,2
+60647,"Wholesale, storage and transit",33
+60649,Arts and Entertainment,14
+60649,Childcare and Schools,21
+60649,Dining,33
+60649,"Financial, Insurance, Real Estate, Legal, and Professional",31
+60649,Fitness,3
+60649,Health Services,16
+60649,Personal Service,49
+60649,Public Services,4
+60649,Religious (except school or residence),29
+60649,Retail,58
+60649,Service or Programmed Residential Space,6
+60649,Social Services & Political Advocacy,2
+60649,Trade Service,29
+60649,"Wholesale, storage and transit",6
+60651,Arts and Entertainment,5
+60651,Childcare and Schools,30
+60651,Dining,39
+60651,"Financial, Insurance, Real Estate, Legal, and Professional",26
+60651,Fitness,4
+60651,Health Services,14
+60651,Industrial,33
+60651,Personal Service,44
+60651,Public Services,3
+60651,Religious (except school or residence),73
+60651,Retail,113
+60651,Service or Programmed Residential Space,4
+60651,Social Services & Political Advocacy,14
+60651,Trade Service,88
+60651,"Wholesale, storage and transit",14
+60652,"Financial, Insurance, Real Estate, Legal, and Professional",1
+60652,Industrial,3
+60652,Public Services,2
+60652,Trade Service,1
+60652,"Wholesale, storage and transit",2
+60653,Arts and Entertainment,6
+60653,Childcare and Schools,16
+60653,Dining,31
+60653,"Financial, Insurance, Real Estate, Legal, and Professional",19
+60653,Fitness,6
+60653,Health Services,9
+60653,Industrial,1
+60653,Other,2
+60653,Personal Service,32
+60653,Public Services,4
+60653,Religious (except school or residence),22
+60653,Retail,29
+60653,Service or Programmed Residential Space,17
+60653,Social Services & Political Advocacy,9
+60653,Trade Service,7
+60653,"Wholesale, storage and transit",1
+60654,Health Services,1
+60654,Retail,1
+60654,"Wholesale, storage and transit",1
+60655,"Financial, Insurance, Real Estate, Legal, and Professional",1
+60655,Trade Service,1
+60659,"Financial, Insurance, Real Estate, Legal, and Professional",2
+60659,Health Services,1
+60659,Trade Service,4
+60659,"Wholesale, storage and transit",2
+60661,Arts and Entertainment,3
+60661,Childcare and Schools,4
+60661,Dining,48
+60661,"Financial, Insurance, Real Estate, Legal, and Professional",20
+60661,Fitness,4
+60661,Health Services,11
+60661,Personal Service,5
+60661,Religious (except school or residence),1
+60661,Retail,15
+60661,Social Services & Political Advocacy,5
+60661,Trade Service,12
+60707,Arts and Entertainment,10
+60707,Childcare and Schools,8
+60707,Dining,40
+60707,"Financial, Insurance, Real Estate, Legal, and Professional",56
+60707,Fitness,2
+60707,Health Services,24
+60707,Industrial,8
+60707,Personal Service,24
+60707,Public Services,3
+60707,Religious (except school or residence),8
+60707,Retail,59
+60707,Service or Programmed Residential Space,4
+60707,Social Services & Political Advocacy,4
+60707,Trade Service,75
+60707,"Wholesale, storage and transit",14
+60803,Social Services & Political Advocacy,1
+60804,Childcare and Schools,1
+60804,Industrial,1
+60804,Religious (except school or residence),1
+60804,Trade Service,1
+60804,"Wholesale, storage and transit",2
+60805,Dining,3
+60805,"Financial, Insurance, Real Estate, Legal, and Professional",1
+60805,Retail,1
+60827,Childcare and Schools,8
+60827,Dining,1
+60827,Fitness,2
+60827,Health Services,1
+60827,Other,1
+60827,Personal Service,1
+60827,Public Services,1
+60827,Religious (except school or residence),1
+60827,Retail,5
+60827,Service or Programmed Residential Space,1
+60827,Social Services & Political Advocacy,2
+60827,Trade Service,3
+60827,"Wholesale, storage and transit",1
