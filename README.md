@@ -3,9 +3,9 @@ Assigning 2020 Census tracts and ZCTAs to MAPSCorps locations using US Census ge
 
 ## Overview
 
-This repository contains a geospatial workflow for converting MAPSCorps point-level business data (latitude/longitude) into **2020 Census tracts** and **ZIP Code Tabulation Areas (ZCTAs)**, and for producing aggregated counts of active businesses by **PlaceType**.
+This repository contains a geospatial workflow for converting MAPSCorps point-level business data (latitude/longitude) into **2020 Census tracts** and **ZIP Code Tabulation Areas (ZCTAs)**, and for producing aggregated counts of active businesses by PlaceType.
 
-The primary use case is to support analyses where **exact latitude/longitude cannot be shared**, and outputs must be reported at the **census tract or ZIP level**.
+The primary use case is to support analyses where exact latitude/longitude cannot be shared, and outputs must be reported at the census tract or ZIP level.
 
 ---
 
@@ -29,7 +29,7 @@ The primary use case is to support analyses where **exact latitude/longitude can
   The original MAPSCorps dataset provided for 2019. This file includes latitude/longitude but does not include census tract or ZIP code identifiers.
 
 * **`MAPSCorps_*.csv`**
-  These CSV files are the **final outputs** of the pipeline. They contain aggregated counts of **active businesses by PlaceType**, reported at either the census tract or ZIP (ZCTA) level, depending on site constraints.
+  These CSV files are the final outputs of the pipeline. They contain aggregated counts of active businesses by PlaceType, reported at either the census tract or ZIP (ZCTA) level, depending on site constraints.
 
 ---
 
@@ -50,22 +50,22 @@ After downloading, unzip the shapefiles in a local directory (e.g., `data/`) and
 
 ## Methodology
 
-1. **Input MAPSCorps data** containing latitude and longitude
-2. **Clean the original chi_data csv and imput null values for lat and long**
-3. **Use the US census geocoder --> accepts 10,000 records at a time so split the data**
-4. **Apply to each observation in the csv to get tract codes for each long/lat coordinate**
+1. Input MAPSCorps data** containing latitude and longitude
+2. Clean the original chi_data csv and imput null values for lat and long
+3. Use the US census geocoder --> accepts 10,000 records at a time so split the data
+4. Apply to each observation in the csv to get tract codes for each long/lat coordinate
 5. Concatenate the split csv files to get same size of the original data
-6. **Load ZCTA shapefiles**
-7. **Convert MAPSCorps points to spatial objects**
-8. **Spatially join points to census geographies**
+6. Load ZCTA shapefiles
+7. Convert MAPSCorps points to spatial objects
+8. Spatially join points to census geographies**
 
    * Assign 2020 Census tract GEOIDs
    * Optionally assign ZCTAs
-9. **Filter to active businesses**
-10. **Aggregate counts by PlaceType**
+9. Filter to active businesses**
+10. Aggregate counts by PlaceType**
 
-   * There are **17 total PlaceType categories**
-11. **Export tract- or ZIP-level summary tables**
+   * There are 17 total PlaceType categories
+Export tract- or ZIP-level summary tables
 
 ---
 
@@ -95,6 +95,6 @@ Each MAPSCorps CSV output corresponds to a specific year and geography level.
 
 ## Notes & Limitations
 
-* A single census tract may intersect **multiple ZCTAs**, which can introduce ambiguity when converting between tracts and ZIP codes.
-* ZCTAs are **approximations of ZIP codes**, not exact USPS delivery areas.
-* This pipeline assumes geocoding is aligned to **2020 Census geography**, consistent with most CAP site practices.
+* A single census tract may intersect multiple ZCTAs, which can introduce ambiguity when converting between tracts and ZIP codes.
+* ZCTAs are approximations of ZIP codes, not exact USPS delivery areas.
+* This pipeline assumes geocoding is aligned to 2020 Census geography, consistent with most CAP site practices.
