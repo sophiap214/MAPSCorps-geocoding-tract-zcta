@@ -1,0 +1,557 @@
+ZCTA_Zipcode,Place Type,count_of_Active_PlaceStatus
+60160,Retail,1
+60302,Retail,1
+60459,Personal Service,1
+60603,"Wholesale, Storage and Transportation",1
+60605,"Financial, Insurance, Real Estate, Legal, and Professional",1
+60605,Health Services,1
+60607,Arts and Entertainment,9
+60607,Childcare and Schools,40
+60607,Cook County Land Bank,1
+60607,Dining,159
+60607,"Financial, Insurance, Real Estate, Legal, and Professional",37
+60607,Fitness,11
+60607,Health Services,30
+60607,Homeless,1
+60607,Industrial,1
+60607,Other,3
+60607,Personal Service,26
+60607,Public Services,8
+60607,Religious (except school or residence),9
+60607,Retail,65
+60607,Service or Programmed Residential Space,9
+60607,Social Services & Political Advocacy,8
+60607,Trade Service,22
+60607,"Wholesale, Storage and Transportation",7
+60608,Arts and Entertainment,21
+60608,Childcare and Schools,65
+60608,Dining,245
+60608,F.I.R.E,3
+60608,"Financial, Insurance, Real Estate, Legal, and Professional",105
+60608,Fitness,14
+60608,Health Services,59
+60608,Industrial,22
+60608,Other,6
+60608,Personal Service,116
+60608,Public Services,13
+60608,Religious (except school or residence),26
+60608,Retail,237
+60608,Service or Programmed Residential Space,7
+60608,Social Services & Political Advocacy,37
+60608,Trade Service,113
+60608,Unknown,1
+60608,"Wholesale, Storage and Transportation",41
+60609,Arts and Entertainment,11
+60609,Childcare and Schools,43
+60609,Cook County Land Bank,1
+60609,Dining,86
+60609,"Financial, Insurance, Real Estate, Legal, and Professional",51
+60609,Fitness,9
+60609,Health Services,32
+60609,Industrial,46
+60609,Other,2
+60609,Personal Service,51
+60609,Public Services,23
+60609,Religious (except school or residence),52
+60609,Retail,216
+60609,Service or Programmed Residential Space,9
+60609,Social Services & Political Advocacy,23
+60609,Trade Service,103
+60609,"Wholesale, Storage and Transportation",60
+60612,Arts and Entertainment,7
+60612,Childcare and Schools,39
+60612,Dining,59
+60612,F.I.R.E,1
+60612,"Financial, Insurance, Real Estate, Legal, and Professional",43
+60612,Fitness,3
+60612,Health Services,46
+60612,Industrial,13
+60612,Other,3
+60612,Personal Service,24
+60612,Public Services,12
+60612,Religious (except school or residence),23
+60612,Retail,58
+60612,Service or Programmed Residential Space,3
+60612,Social Services & Political Advocacy,21
+60612,Trade Service,56
+60612,Unknown,1
+60612,"Wholesale, Storage and Transportation",21
+60614,Dining,1
+60615,Arts and Entertainment,12
+60615,Childcare and Schools,53
+60615,Dining,153
+60615,"Financial, Insurance, Real Estate, Legal, and Professional",72
+60615,Fitness,11
+60615,Health Services,56
+60615,Industrial,1
+60615,Other,8
+60615,Personal Service,79
+60615,Public Services,10
+60615,Religious (except school or residence),43
+60615,Retail,104
+60615,Service or Programmed Residential Space,32
+60615,Social Services & Political Advocacy,16
+60615,Trade Service,23
+60615,Unknown,1
+60615,"Wholesale, Storage and Transportation",4
+60616,Arts and Entertainment,10
+60616,Childcare and Schools,28
+60616,Dining,47
+60616,"Financial, Insurance, Real Estate, Legal, and Professional",29
+60616,Fitness,5
+60616,Health Services,27
+60616,Industrial,9
+60616,Other,4
+60616,Personal Service,20
+60616,Public Services,5
+60616,Religious (except school or residence),12
+60616,Retail,47
+60616,Service or Programmed Residential Space,11
+60616,Social Services & Political Advocacy,15
+60616,Trade Service,35
+60616,"Wholesale, Storage and Transportation",14
+60617,Arts and Entertainment,14
+60617,Childcare and Schools,51
+60617,Cook County Land Bank,1
+60617,Dining,55
+60617,F.I.R.E,3
+60617,"Financial, Insurance, Real Estate, Legal, and Professional",64
+60617,Fitness,6
+60617,Health Services,46
+60617,Industrial,6
+60617,Other,4
+60617,Personal Service,57
+60617,Public Services,13
+60617,Religious (except school or residence),58
+60617,Retail,100
+60617,Service or Programmed Residential Space,13
+60617,Social Services & Political Advocacy,11
+60617,Trade Service,63
+60617,"Wholesale, Storage and Transportation",8
+60618,Arts and Entertainment,2
+60618,Childcare and Schools,3
+60618,Dining,16
+60618,"Financial, Insurance, Real Estate, Legal, and Professional",7
+60618,Fitness,2
+60618,Health Services,9
+60618,Personal Service,7
+60618,Retail,20
+60618,Service or Programmed Residential Space,1
+60618,Social Services & Political Advocacy,1
+60618,Trade Service,15
+60618,"Wholesale, Storage and Transportation",1
+60619,Arts and Entertainment,30
+60619,Childcare and Schools,78
+60619,Cook County Land Bank,1
+60619,Dining,136
+60619,F.I.R.E,37
+60619,"Financial, Insurance, Real Estate, Legal, and Professional",65
+60619,Fitness,6
+60619,Health Services,68
+60619,Industrial,9
+60619,Non-residential religious,34
+60619,Other,8
+60619,Personal Service,177
+60619,Public Services,7
+60619,Public services,1
+60619,Religious (except school or residence),64
+60619,Retail,220
+60619,Service or Programmed Residential Space,6
+60619,Social Services & Political Advocacy,20
+60619,Trade Service,71
+60619,Unknown,2
+60619,"Wholesale, Storage and Transportation",7
+60620,Arts and Entertainment,7
+60620,Childcare and Schools,66
+60620,Dining,58
+60620,F.I.R.E,5
+60620,"Financial, Insurance, Real Estate, Legal, and Professional",21
+60620,Fitness,4
+60620,Health Services,13
+60620,Industrial,3
+60620,Other,2
+60620,Personal Service,85
+60620,Public Services,7
+60620,Religious (except school or residence),99
+60620,Retail,119
+60620,Service or Programmed Residential Space,15
+60620,Social Services & Political Advocacy,32
+60620,Trade Service,51
+60620,"Wholesale, Storage and Transportation",15
+60621,Arts and Entertainment,1
+60621,Childcare and Schools,31
+60621,Dining,22
+60621,F.I.R.E,5
+60621,"Financial, Insurance, Real Estate, Legal, and Professional",4
+60621,Fitness,2
+60621,Health Services,17
+60621,Industrial,2
+60621,Other,2
+60621,Personal Service,20
+60621,Public Services,4
+60621,Religious (except school or residence),74
+60621,Retail,57
+60621,Service or Programmed Residential Space,11
+60621,Social Services & Political Advocacy,16
+60621,Trade Service,24
+60621,"Wholesale, Storage and Transportation",2
+60622,Dining,4
+60622,"Financial, Insurance, Real Estate, Legal, and Professional",1
+60622,Health Services,1
+60622,Industrial,1
+60622,Retail,1
+60622,Trade Service,2
+60622,"Wholesale, Storage and Transportation",2
+60623,Arts and Entertainment,6
+60623,Childcare and Schools,30
+60623,Dining,20
+60623,F.I.R.E,16
+60623,"Financial, Insurance, Real Estate, Legal, and Professional",1
+60623,Fitness,2
+60623,Health Services,18
+60623,Industrial,25
+60623,Non-residential religious,30
+60623,Other,7
+60623,Personal Service,24
+60623,Public Services,8
+60623,Religious (except school or residence),77
+60623,Retail,57
+60623,Service or Programmed Residential Space,2
+60623,Social Services & Political Advocacy,14
+60623,Trade Service,46
+60623,"Wholesale, Storage and Transportation",13
+60624,Arts and Entertainment,3
+60624,Childcare and Schools,15
+60624,Cook County Land Bank,1
+60624,Dining,24
+60624,F.I.R.E,4
+60624,"Financial, Insurance, Real Estate, Legal, and Professional",4
+60624,Fitness,1
+60624,Health Services,12
+60624,Industrial,12
+60624,Other,1
+60624,Personal Service,17
+60624,Public Services,6
+60624,Religious (except school or residence),42
+60624,Retail,68
+60624,Service or Programmed Residential Space,5
+60624,Social Services & Political Advocacy,8
+60624,Trade Service,29
+60624,"Wholesale, Storage and Transportation",6
+60625,Arts and Entertainment,18
+60625,Childcare and Schools,32
+60625,Dining,88
+60625,"Financial, Insurance, Real Estate, Legal, and Professional",78
+60625,Fitness,5
+60625,Health Services,55
+60625,Industrial,3
+60625,Other,1
+60625,Personal Service,41
+60625,Public Services,3
+60625,Religious (except school or residence),11
+60625,Retail,124
+60625,Service or Programmed Residential Space,5
+60625,Social Services & Political Advocacy,12
+60625,Trade Service,69
+60625,"Wholesale, Storage and Transportation",22
+60628,Arts and Entertainment,5
+60628,Childcare and Schools,42
+60628,Cook County Land Bank,39
+60628,Dining,26
+60628,"Financial, Insurance, Real Estate, Legal, and Professional",34
+60628,Fitness,5
+60628,Health Services,15
+60628,Industrial,2
+60628,Other,1
+60628,Personal Service,38
+60628,Public Services,9
+60628,Religious (except school or residence),70
+60628,Retail,74
+60628,Service or Programmed Residential Space,10
+60628,Social Services & Political Advocacy,22
+60628,Trade Service,46
+60628,"Wholesale, Storage and Transportation",11
+60629,Arts and Entertainment,11
+60629,Childcare and Schools,38
+60629,Dining,83
+60629,F.I.R.E,48
+60629,"Financial, Insurance, Real Estate, Legal, and Professional",16
+60629,Fitness,5
+60629,Health Services,44
+60629,Industrial,9
+60629,Non-residential religious,15
+60629,Other,1
+60629,Personal Service,53
+60629,Public Services,6
+60629,Religious (except school or residence),11
+60629,Retail,88
+60629,Service or Programmed Residential Space,6
+60629,Social Services & Political Advocacy,4
+60629,Trade Service,64
+60629,"Wholesale, Storage and Transportation",5
+60630,Arts and Entertainment,7
+60630,Childcare and Schools,5
+60630,Dining,26
+60630,"Financial, Insurance, Real Estate, Legal, and Professional",20
+60630,Fitness,6
+60630,Health Services,14
+60630,Industrial,1
+60630,Personal Service,16
+60630,Public Services,2
+60630,Religious (except school or residence),8
+60630,Retail,39
+60630,Service or Programmed Residential Space,1
+60630,Social Services & Political Advocacy,4
+60630,Trade Service,54
+60630,"Wholesale, Storage and Transportation",16
+60632,Arts and Entertainment,19
+60632,Childcare and Schools,56
+60632,Dining,167
+60632,"Financial, Insurance, Real Estate, Legal, and Professional",118
+60632,Fitness,14
+60632,Health Services,76
+60632,Industrial,42
+60632,Other,1
+60632,Personal Service,116
+60632,Public Services,13
+60632,Religious (except school or residence),24
+60632,Retail,241
+60632,Service or Programmed Residential Space,3
+60632,Social Services & Political Advocacy,16
+60632,Trade Service,130
+60632,"Wholesale, Storage and Transportation",72
+60633,Industrial,3
+60633,Personal Service,1
+60633,Public Services,1
+60633,Social Services & Political Advocacy,1
+60634,Arts and Entertainment,2
+60634,Childcare and Schools,1
+60634,Dining,3
+60634,"Financial, Insurance, Real Estate, Legal, and Professional",13
+60634,Health Services,18
+60634,Personal Service,6
+60634,Religious (except school or residence),2
+60634,Retail,15
+60634,Social Services & Political Advocacy,2
+60634,Trade Service,15
+60634,"Wholesale, Storage and Transportation",1
+60636,Childcare and Schools,30
+60636,Dining,22
+60636,"Financial, Insurance, Real Estate, Legal, and Professional",10
+60636,Fitness,3
+60636,Health Services,3
+60636,Industrial,4
+60636,Other,2
+60636,Personal Service,29
+60636,Public Services,7
+60636,Religious (except school or residence),68
+60636,Retail,88
+60636,Service or Programmed Residential Space,5
+60636,Social Services & Political Advocacy,10
+60636,Trade Service,46
+60636,"Wholesale, Storage and Transportation",4
+60637,Arts and Entertainment,25
+60637,Childcare and Schools,128
+60637,Cook County Land Bank,40
+60637,Dining,83
+60637,F.I.R.E,6
+60637,"Financial, Insurance, Real Estate, Legal, and Professional",33
+60637,Fitness,9
+60637,Health Services,37
+60637,Industrial,1
+60637,Non-residential religious,1
+60637,Other,10
+60637,Personal Service,62
+60637,Public Services,23
+60637,Religious (except school or residence),59
+60637,Retail,71
+60637,Service or Programmed Residential Space,31
+60637,Social Services & Political Advocacy,25
+60637,Trade Service,36
+60637,"Wholesale, Storage and Transportation",14
+60638,Dining,2
+60638,"Wholesale, Storage and Transportation",1
+60639,Arts and Entertainment,11
+60639,Childcare and Schools,18
+60639,Dining,108
+60639,"Financial, Insurance, Real Estate, Legal, and Professional",66
+60639,Fitness,6
+60639,Health Services,34
+60639,Industrial,15
+60639,Personal Service,93
+60639,Public Services,9
+60639,Religious (except school or residence),35
+60639,Retail,195
+60639,Service or Programmed Residential Space,1
+60639,Social Services & Political Advocacy,12
+60639,Trade Service,117
+60639,"Wholesale, Storage and Transportation",13
+60640,Dining,4
+60640,Health Services,1
+60640,Personal Service,2
+60640,Retail,3
+60640,Social Services & Political Advocacy,1
+60640,Trade Service,1
+60640,"Wholesale, Storage and Transportation",1
+60641,Arts and Entertainment,4
+60641,Dining,15
+60641,"Financial, Insurance, Real Estate, Legal, and Professional",24
+60641,Health Services,12
+60641,Personal Service,14
+60641,Public Services,1
+60641,Religious (except school or residence),2
+60641,Retail,36
+60641,Service or Programmed Residential Space,1
+60641,Social Services & Political Advocacy,2
+60641,Trade Service,28
+60641,"Wholesale, Storage and Transportation",2
+60642,Dining,2
+60642,F.I.R.E,1
+60642,"Financial, Insurance, Real Estate, Legal, and Professional",1
+60642,Retail,1
+60642,Trade Service,1
+60643,Arts and Entertainment,6
+60643,Childcare and Schools,16
+60643,Cook County Land Bank,4
+60643,Dining,23
+60643,"Financial, Insurance, Real Estate, Legal, and Professional",23
+60643,Fitness,5
+60643,Health Services,15
+60643,Industrial,2
+60643,Other,1
+60643,Personal Service,23
+60643,Public Services,3
+60643,Religious (except school or residence),16
+60643,Retail,22
+60643,Service or Programmed Residential Space,4
+60643,Social Services & Political Advocacy,11
+60643,Trade Service,22
+60643,Unknown,2
+60643,"Wholesale, Storage and Transportation",4
+60644,Arts and Entertainment,8
+60644,Childcare and Schools,44
+60644,Dining,52
+60644,"Financial, Insurance, Real Estate, Legal, and Professional",24
+60644,Fitness,3
+60644,Health Services,21
+60644,Industrial,16
+60644,Other,3
+60644,Personal Service,50
+60644,Public Services,6
+60644,Religious (except school or residence),78
+60644,Retail,115
+60644,Service or Programmed Residential Space,14
+60644,Social Services & Political Advocacy,18
+60644,Trade Service,62
+60644,"Wholesale, Storage and Transportation",15
+60645,Trade Service,1
+60647,Arts and Entertainment,2
+60647,Childcare and Schools,1
+60647,Dining,14
+60647,"Financial, Insurance, Real Estate, Legal, and Professional",12
+60647,Fitness,1
+60647,Health Services,10
+60647,Other,1
+60647,Personal Service,15
+60647,Public Services,1
+60647,Religious (except school or residence),7
+60647,Retail,26
+60647,Service or Programmed Residential Space,1
+60647,Social Services & Political Advocacy,5
+60647,Trade Service,6
+60647,"Wholesale, Storage and Transportation",1
+60649,Arts and Entertainment,15
+60649,Childcare and Schools,43
+60649,Dining,53
+60649,F.I.R.E,56
+60649,"Financial, Insurance, Real Estate, Legal, and Professional",1
+60649,Fitness,5
+60649,Health Services,32
+60649,Industrial,2
+60649,Non-residential religious,25
+60649,Other,5
+60649,Personal Service,72
+60649,Public Services,5
+60649,Religious (except school or residence),28
+60649,Retail,113
+60649,Service or Programmed Residential Space,29
+60649,Social Services & Political Advocacy,13
+60649,Trade Service,59
+60649,"Wholesale, Storage and Transportation",4
+60651,Arts and Entertainment,6
+60651,Childcare and Schools,26
+60651,Dining,39
+60651,"Financial, Insurance, Real Estate, Legal, and Professional",10
+60651,Fitness,2
+60651,Health Services,10
+60651,Industrial,16
+60651,Other,1
+60651,Personal Service,49
+60651,Public Services,4
+60651,Religious (except school or residence),57
+60651,Retail,97
+60651,Service or Programmed Residential Space,3
+60651,Social Services & Political Advocacy,19
+60651,Trade Service,66
+60651,"Wholesale, Storage and Transportation",6
+60652,F.I.R.E,1
+60652,Industrial,2
+60652,Public Services,2
+60652,Retail,1
+60652,Trade Service,1
+60652,"Wholesale, Storage and Transportation",1
+60653,Arts and Entertainment,12
+60653,Childcare and Schools,33
+60653,Dining,54
+60653,"Financial, Insurance, Real Estate, Legal, and Professional",33
+60653,Fitness,9
+60653,Health Services,17
+60653,Industrial,1
+60653,Other,5
+60653,Personal Service,62
+60653,Public Services,13
+60653,Religious (except school or residence),70
+60653,Retail,55
+60653,Service or Programmed Residential Space,21
+60653,Social Services & Political Advocacy,25
+60653,Trade Service,12
+60653,"Wholesale, Storage and Transportation",2
+60655,Dining,3
+60655,"Financial, Insurance, Real Estate, Legal, and Professional",1
+60655,Health Services,1
+60655,Personal Service,2
+60655,Retail,2
+60661,Arts and Entertainment,1
+60661,Dining,1
+60661,Health Services,1
+60661,Personal Service,1
+60707,Arts and Entertainment,1
+60707,Childcare and Schools,5
+60707,Dining,18
+60707,"Financial, Insurance, Real Estate, Legal, and Professional",16
+60707,Fitness,1
+60707,Health Services,14
+60707,Industrial,4
+60707,Personal Service,11
+60707,Public Services,2
+60707,Religious (except school or residence),3
+60707,Retail,23
+60707,Social Services & Political Advocacy,1
+60707,Trade Service,12
+60707,"Wholesale, Storage and Transportation",4
+60804,Dining,1
+60804,"Financial, Insurance, Real Estate, Legal, and Professional",1
+60804,Health Services,1
+60804,Retail,3
+60804,Social Services & Political Advocacy,1
+60827,Childcare and Schools,7
+60827,Dining,1
+60827,Fitness,2
+60827,Health Services,1
+60827,Other,1
+60827,Personal Service,4
+60827,Public Services,1
+60827,Religious (except school or residence),1
+60827,Retail,1
+60827,Social Services & Political Advocacy,1
+60827,Trade Service,1

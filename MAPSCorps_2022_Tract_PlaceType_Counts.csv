@@ -1,0 +1,3609 @@
+census_tract,Place Type,count_of_Active_PlaceStatus
+17031020200,Trade Service,1
+17031031000,Dining,2
+17031031000,Personal Service,2
+17031031000,Retail,1
+17031031000,Social Services & Political Advocacy,1
+17031040100,Dining,3
+17031040100,"Financial, Insurance, Real Estate, Legal, and Professional",2
+17031040100,Health Services,4
+17031040100,Personal Service,2
+17031040100,Public Services,1
+17031040100,Retail,2
+17031040100,Trade Service,1
+17031040100,"Wholesale, Storage and Transportation",1
+17031040201,Childcare and Schools,1
+17031040201,Dining,3
+17031040201,"Financial, Insurance, Real Estate, Legal, and Professional",2
+17031040201,Health Services,1
+17031040201,Personal Service,2
+17031040201,Religious (except school or residence),1
+17031040201,Retail,2
+17031040201,Service or Programmed Residential Space,1
+17031040201,Social Services & Political Advocacy,1
+17031040201,Trade Service,7
+17031040202,Health Services,2
+17031040202,Retail,3
+17031040300,Childcare and Schools,1
+17031040300,Dining,1
+17031040300,Fitness,1
+17031040300,Health Services,2
+17031040300,Personal Service,1
+17031040300,Public Services,1
+17031040300,Trade Service,1
+17031040401,Childcare and Schools,1
+17031040401,Dining,2
+17031040401,Retail,1
+17031040401,Trade Service,1
+17031040402,Childcare and Schools,2
+17031040402,Retail,1
+17031040402,Trade Service,1
+17031050900,Retail,1
+17031071000,Dining,1
+17031110501,Religious (except school or residence),1
+17031130200,Dining,3
+17031130200,Personal Service,1
+17031130200,Religious (except school or residence),1
+17031130200,Retail,1
+17031140100,Childcare and Schools,1
+17031140100,Dining,4
+17031140100,"Financial, Insurance, Real Estate, Legal, and Professional",2
+17031140100,Health Services,6
+17031140100,Industrial,2
+17031140100,Other,1
+17031140100,Personal Service,2
+17031140100,Retail,8
+17031140100,Trade Service,5
+17031140100,"Wholesale, Storage and Transportation",3
+17031140200,Arts and Entertainment,2
+17031140200,Childcare and Schools,6
+17031140200,Dining,12
+17031140200,"Financial, Insurance, Real Estate, Legal, and Professional",9
+17031140200,Health Services,5
+17031140200,Personal Service,6
+17031140200,Religious (except school or residence),2
+17031140200,Retail,18
+17031140200,Service or Programmed Residential Space,2
+17031140200,Social Services & Political Advocacy,5
+17031140200,Trade Service,5
+17031140200,"Wholesale, Storage and Transportation",4
+17031140301,Arts and Entertainment,3
+17031140301,Childcare and Schools,1
+17031140301,Dining,17
+17031140301,"Financial, Insurance, Real Estate, Legal, and Professional",4
+17031140301,Health Services,3
+17031140301,Personal Service,5
+17031140301,Retail,24
+17031140301,Trade Service,2
+17031140301,"Wholesale, Storage and Transportation",1
+17031140302,Arts and Entertainment,1
+17031140302,Childcare and Schools,2
+17031140302,Fitness,1
+17031140302,Health Services,6
+17031140302,Religious (except school or residence),2
+17031140302,Retail,3
+17031140302,Trade Service,3
+17031140302,"Wholesale, Storage and Transportation",1
+17031140400,Arts and Entertainment,5
+17031140400,Childcare and Schools,2
+17031140400,Dining,16
+17031140400,"Financial, Insurance, Real Estate, Legal, and Professional",13
+17031140400,Fitness,2
+17031140400,Health Services,9
+17031140400,Industrial,1
+17031140400,Personal Service,9
+17031140400,Public Services,1
+17031140400,Religious (except school or residence),2
+17031140400,Retail,21
+17031140400,Service or Programmed Residential Space,1
+17031140400,Social Services & Political Advocacy,3
+17031140400,Trade Service,34
+17031140400,"Wholesale, Storage and Transportation",12
+17031140500,Arts and Entertainment,1
+17031140500,Childcare and Schools,2
+17031140500,Dining,9
+17031140500,"Financial, Insurance, Real Estate, Legal, and Professional",7
+17031140500,Fitness,4
+17031140500,Health Services,3
+17031140500,Personal Service,7
+17031140500,Public Services,1
+17031140500,Religious (except school or residence),4
+17031140500,Retail,13
+17031140500,Social Services & Political Advocacy,1
+17031140500,Trade Service,16
+17031140500,"Wholesale, Storage and Transportation",4
+17031140601,Arts and Entertainment,2
+17031140601,Childcare and Schools,1
+17031140601,Dining,9
+17031140601,"Financial, Insurance, Real Estate, Legal, and Professional",6
+17031140601,Health Services,3
+17031140601,Personal Service,5
+17031140601,Retail,14
+17031140601,Service or Programmed Residential Space,2
+17031140601,Social Services & Political Advocacy,1
+17031140601,Trade Service,9
+17031140601,"Wholesale, Storage and Transportation",2
+17031140602,Arts and Entertainment,2
+17031140602,Childcare and Schools,5
+17031140602,Dining,6
+17031140602,"Financial, Insurance, Real Estate, Legal, and Professional",8
+17031140602,Health Services,7
+17031140602,Industrial,1
+17031140602,Personal Service,2
+17031140602,Retail,13
+17031140602,Trade Service,6
+17031140602,"Wholesale, Storage and Transportation",7
+17031140701,Arts and Entertainment,2
+17031140701,Childcare and Schools,2
+17031140701,Dining,18
+17031140701,"Financial, Insurance, Real Estate, Legal, and Professional",12
+17031140701,Health Services,5
+17031140701,Personal Service,6
+17031140701,Religious (except school or residence),1
+17031140701,Retail,23
+17031140701,Social Services & Political Advocacy,2
+17031140701,Trade Service,7
+17031140701,"Wholesale, Storage and Transportation",1
+17031140702,Arts and Entertainment,1
+17031140702,Childcare and Schools,4
+17031140702,Dining,18
+17031140702,"Financial, Insurance, Real Estate, Legal, and Professional",14
+17031140702,Fitness,2
+17031140702,Health Services,3
+17031140702,Personal Service,7
+17031140702,Public Services,1
+17031140702,Religious (except school or residence),2
+17031140702,Retail,18
+17031140702,Social Services & Political Advocacy,2
+17031140702,Trade Service,20
+17031140702,"Wholesale, Storage and Transportation",2
+17031140800,Arts and Entertainment,8
+17031140800,Childcare and Schools,9
+17031140800,Dining,13
+17031140800,"Financial, Insurance, Real Estate, Legal, and Professional",27
+17031140800,Fitness,3
+17031140800,Health Services,20
+17031140800,Personal Service,11
+17031140800,Religious (except school or residence),3
+17031140800,Retail,19
+17031140800,Service or Programmed Residential Space,1
+17031140800,Social Services & Political Advocacy,2
+17031140800,Trade Service,22
+17031140800,"Wholesale, Storage and Transportation",3
+17031150300,Retail,1
+17031150800,"Financial, Insurance, Real Estate, Legal, and Professional",1
+17031170900,Trade Service,1
+17031171000,Trade Service,1
+17031180100,Dining,2
+17031180100,"Financial, Insurance, Real Estate, Legal, and Professional",2
+17031180100,Health Services,3
+17031180100,Personal Service,2
+17031180100,Retail,3
+17031180100,Trade Service,6
+17031190100,Arts and Entertainment,1
+17031190100,Dining,9
+17031190100,"Financial, Insurance, Real Estate, Legal, and Professional",5
+17031190100,Health Services,4
+17031190100,Personal Service,4
+17031190100,Public Services,2
+17031190100,Religious (except school or residence),1
+17031190100,Retail,20
+17031190100,Service or Programmed Residential Space,1
+17031190100,Social Services & Political Advocacy,4
+17031190100,Trade Service,6
+17031190100,"Wholesale, Storage and Transportation",1
+17031190200,Arts and Entertainment,2
+17031190200,Dining,7
+17031190200,"Financial, Insurance, Real Estate, Legal, and Professional",12
+17031190200,Health Services,5
+17031190200,Personal Service,2
+17031190200,Public Services,1
+17031190200,Religious (except school or residence),3
+17031190200,Retail,15
+17031190200,Social Services & Political Advocacy,1
+17031190200,Trade Service,17
+17031190300,Arts and Entertainment,1
+17031190300,Dining,10
+17031190300,"Financial, Insurance, Real Estate, Legal, and Professional",13
+17031190300,Fitness,1
+17031190300,Health Services,8
+17031190300,Personal Service,11
+17031190300,Religious (except school or residence),1
+17031190300,Retail,16
+17031190300,Social Services & Political Advocacy,1
+17031190300,Trade Service,13
+17031190401,Childcare and Schools,1
+17031190401,Dining,1
+17031190401,"Financial, Insurance, Real Estate, Legal, and Professional",4
+17031190401,Health Services,10
+17031190401,Personal Service,3
+17031190401,Retail,6
+17031190401,Trade Service,7
+17031190402,Arts and Entertainment,4
+17031190402,Dining,5
+17031190402,"Financial, Insurance, Real Estate, Legal, and Professional",10
+17031190402,Fitness,1
+17031190402,Health Services,6
+17031190402,Personal Service,3
+17031190402,Religious (except school or residence),1
+17031190402,Retail,11
+17031190402,Social Services & Political Advocacy,2
+17031190402,Trade Service,5
+17031190402,"Wholesale, Storage and Transportation",2
+17031190601,Dining,2
+17031190601,"Financial, Insurance, Real Estate, Legal, and Professional",2
+17031190601,Personal Service,2
+17031190601,Public Services,1
+17031190601,Trade Service,2
+17031190602,Arts and Entertainment,1
+17031190602,Childcare and Schools,1
+17031190602,Dining,8
+17031190602,"Financial, Insurance, Real Estate, Legal, and Professional",7
+17031190602,Fitness,1
+17031190602,Health Services,3
+17031190602,Personal Service,6
+17031190602,Religious (except school or residence),2
+17031190602,Retail,7
+17031190602,Trade Service,4
+17031190701,Arts and Entertainment,1
+17031190701,Childcare and Schools,2
+17031190701,Dining,4
+17031190701,"Financial, Insurance, Real Estate, Legal, and Professional",3
+17031190701,Health Services,1
+17031190701,Industrial,1
+17031190701,Personal Service,4
+17031190701,Religious (except school or residence),2
+17031190701,Retail,5
+17031190701,Social Services & Political Advocacy,2
+17031190701,Trade Service,5
+17031190701,"Wholesale, Storage and Transportation",1
+17031190702,Childcare and Schools,1
+17031190702,Dining,2
+17031190702,"Financial, Insurance, Real Estate, Legal, and Professional",3
+17031190702,Health Services,2
+17031190702,Personal Service,4
+17031190702,Religious (except school or residence),1
+17031190702,Retail,6
+17031190702,Trade Service,5
+17031190800,Arts and Entertainment,3
+17031190800,Childcare and Schools,4
+17031190800,Dining,9
+17031190800,"Financial, Insurance, Real Estate, Legal, and Professional",9
+17031190800,Health Services,1
+17031190800,Industrial,1
+17031190800,Personal Service,13
+17031190800,Religious (except school or residence),3
+17031190800,Retail,30
+17031190800,Social Services & Political Advocacy,1
+17031190800,Trade Service,10
+17031190800,"Wholesale, Storage and Transportation",3
+17031190900,Dining,4
+17031190900,"Financial, Insurance, Real Estate, Legal, and Professional",3
+17031190900,Health Services,2
+17031190900,Personal Service,2
+17031190900,Retail,11
+17031190900,Social Services & Political Advocacy,1
+17031190900,Trade Service,5
+17031191000,Arts and Entertainment,1
+17031191000,Childcare and Schools,1
+17031191000,Dining,7
+17031191000,"Financial, Insurance, Real Estate, Legal, and Professional",5
+17031191000,Industrial,2
+17031191000,Religious (except school or residence),1
+17031191000,Retail,11
+17031191000,Trade Service,13
+17031191000,"Wholesale, Storage and Transportation",1
+17031191100,Childcare and Schools,1
+17031191100,Dining,9
+17031191100,"Financial, Insurance, Real Estate, Legal, and Professional",4
+17031191100,Health Services,10
+17031191100,Industrial,1
+17031191100,Personal Service,3
+17031191100,Public Services,1
+17031191100,Religious (except school or residence),2
+17031191100,Retail,16
+17031191100,Trade Service,12
+17031191100,"Wholesale, Storage and Transportation",2
+17031191200,Childcare and Schools,1
+17031191200,Dining,5
+17031191200,"Financial, Insurance, Real Estate, Legal, and Professional",1
+17031191200,Health Services,2
+17031191200,Industrial,1
+17031191200,Personal Service,2
+17031191200,Public Services,3
+17031191200,Religious (except school or residence),1
+17031191200,Retail,5
+17031191200,Trade Service,6
+17031191200,"Wholesale, Storage and Transportation",1
+17031191301,Arts and Entertainment,1
+17031191301,Dining,6
+17031191301,"Financial, Insurance, Real Estate, Legal, and Professional",1
+17031191301,Personal Service,2
+17031191301,Religious (except school or residence),1
+17031191301,Retail,3
+17031191301,Service or Programmed Residential Space,1
+17031191301,Social Services & Political Advocacy,1
+17031191301,Trade Service,4
+17031191302,Childcare and Schools,1
+17031191302,Dining,7
+17031191302,"Financial, Insurance, Real Estate, Legal, and Professional",5
+17031191302,Health Services,1
+17031191302,Industrial,3
+17031191302,Personal Service,9
+17031191302,Public Services,1
+17031191302,Religious (except school or residence),2
+17031191302,Retail,16
+17031191302,Trade Service,21
+17031191302,"Wholesale, Storage and Transportation",2
+17031200402,Health Services,1
+17031221100,Retail,2
+17031221600,Retail,1
+17031222700,Dining,1
+17031222700,Retail,1
+17031222700,Social Services & Political Advocacy,1
+17031222800,Service or Programmed Residential Space,1
+17031230100,Dining,1
+17031230100,Health Services,1
+17031230100,Personal Service,2
+17031230100,Retail,1
+17031230200,Dining,2
+17031230200,"Financial, Insurance, Real Estate, Legal, and Professional",1
+17031230200,Fitness,1
+17031230200,Health Services,2
+17031230200,Other,1
+17031230200,Personal Service,3
+17031230200,Religious (except school or residence),1
+17031230200,Retail,3
+17031230200,"Wholesale, Storage and Transportation",1
+17031230300,Personal Service,1
+17031230300,Religious (except school or residence),2
+17031230300,Retail,1
+17031230300,Trade Service,1
+17031230400,Childcare and Schools,1
+17031230400,Dining,6
+17031230400,"Financial, Insurance, Real Estate, Legal, and Professional",6
+17031230400,Health Services,3
+17031230400,Personal Service,2
+17031230400,Religious (except school or residence),1
+17031230400,Retail,9
+17031230400,Trade Service,4
+17031230600,Childcare and Schools,3
+17031230600,"Financial, Insurance, Real Estate, Legal, and Professional",1
+17031230600,Health Services,1
+17031230600,Industrial,1
+17031230600,Personal Service,2
+17031230600,Retail,4
+17031230600,Trade Service,4
+17031230600,"Wholesale, Storage and Transportation",2
+17031230700,Arts and Entertainment,2
+17031230700,Childcare and Schools,1
+17031230700,Dining,9
+17031230700,"Financial, Insurance, Real Estate, Legal, and Professional",4
+17031230700,Health Services,3
+17031230700,Personal Service,12
+17031230700,Public Services,1
+17031230700,Religious (except school or residence),10
+17031230700,Retail,10
+17031230700,Social Services & Political Advocacy,1
+17031230700,Trade Service,18
+17031230800,Childcare and Schools,1
+17031230800,Industrial,2
+17031230800,Personal Service,1
+17031230800,Religious (except school or residence),1
+17031230800,Retail,1
+17031230800,Social Services & Political Advocacy,3
+17031230800,Trade Service,1
+17031230900,Arts and Entertainment,1
+17031230900,Childcare and Schools,1
+17031230900,"Financial, Insurance, Real Estate, Legal, and Professional",2
+17031230900,Health Services,3
+17031230900,Personal Service,1
+17031230900,Religious (except school or residence),3
+17031230900,Retail,7
+17031230900,Service or Programmed Residential Space,1
+17031231100,Arts and Entertainment,1
+17031231100,Dining,1
+17031231100,Health Services,1
+17031231100,Retail,1
+17031231100,Social Services & Political Advocacy,1
+17031231200,Childcare and Schools,1
+17031231200,Dining,6
+17031231200,"Financial, Insurance, Real Estate, Legal, and Professional",4
+17031231200,Fitness,1
+17031231200,Health Services,3
+17031231200,Personal Service,11
+17031231200,Religious (except school or residence),4
+17031231200,Retail,14
+17031231200,Social Services & Political Advocacy,1
+17031231200,Trade Service,4
+17031231500,Childcare and Schools,1
+17031231500,Dining,7
+17031231500,Health Services,1
+17031231500,Personal Service,5
+17031231500,Religious (except school or residence),1
+17031231500,Retail,8
+17031231500,Social Services & Political Advocacy,2
+17031231500,Trade Service,1
+17031241600,"Financial, Insurance, Real Estate, Legal, and Professional",1
+17031242700,"Wholesale, Storage and Transportation",1
+17031250200,Dining,7
+17031250200,Personal Service,2
+17031250200,Retail,3
+17031250200,Social Services & Political Advocacy,1
+17031250200,Trade Service,5
+17031250200,"Wholesale, Storage and Transportation",1
+17031250300,Dining,3
+17031250300,Industrial,3
+17031250300,Personal Service,3
+17031250300,Religious (except school or residence),3
+17031250300,Retail,1
+17031250300,Trade Service,3
+17031250400,Arts and Entertainment,2
+17031250400,Childcare and Schools,3
+17031250400,Dining,6
+17031250400,"Financial, Insurance, Real Estate, Legal, and Professional",6
+17031250400,Health Services,1
+17031250400,Industrial,3
+17031250400,Personal Service,16
+17031250400,Public Services,1
+17031250400,Religious (except school or residence),8
+17031250400,Retail,12
+17031250400,Social Services & Political Advocacy,1
+17031250400,Trade Service,3
+17031250400,"Wholesale, Storage and Transportation",1
+17031250500,Arts and Entertainment,1
+17031250500,Childcare and Schools,4
+17031250500,Dining,12
+17031250500,"Financial, Insurance, Real Estate, Legal, and Professional",14
+17031250500,Health Services,8
+17031250500,Industrial,3
+17031250500,Personal Service,10
+17031250500,Public Services,2
+17031250500,Religious (except school or residence),3
+17031250500,Retail,10
+17031250500,Social Services & Political Advocacy,1
+17031250500,Trade Service,7
+17031250500,"Wholesale, Storage and Transportation",2
+17031250600,Childcare and Schools,2
+17031250600,Dining,5
+17031250600,"Financial, Insurance, Real Estate, Legal, and Professional",2
+17031250600,Personal Service,3
+17031250600,Religious (except school or residence),8
+17031250600,Retail,6
+17031250600,Trade Service,4
+17031250700,Childcare and Schools,2
+17031250700,Dining,3
+17031250700,"Financial, Insurance, Real Estate, Legal, and Professional",2
+17031250700,Health Services,1
+17031250700,Personal Service,6
+17031250700,Religious (except school or residence),1
+17031250700,Retail,5
+17031250800,Childcare and Schools,1
+17031250800,Dining,7
+17031250800,"Financial, Insurance, Real Estate, Legal, and Professional",3
+17031250800,Fitness,3
+17031250800,Health Services,1
+17031250800,Personal Service,5
+17031250800,Public Services,1
+17031250800,Religious (except school or residence),4
+17031250800,Retail,35
+17031250800,Social Services & Political Advocacy,1
+17031250800,Trade Service,4
+17031250800,"Wholesale, Storage and Transportation",1
+17031251000,Arts and Entertainment,1
+17031251000,Childcare and Schools,1
+17031251000,Health Services,2
+17031251000,Industrial,6
+17031251000,Personal Service,1
+17031251000,Public Services,2
+17031251000,Religious (except school or residence),4
+17031251000,Retail,6
+17031251000,Trade Service,12
+17031251000,"Wholesale, Storage and Transportation",1
+17031251100,Childcare and Schools,1
+17031251100,Health Services,2
+17031251100,Other,1
+17031251100,Personal Service,4
+17031251100,Public Services,1
+17031251100,Religious (except school or residence),5
+17031251100,Retail,12
+17031251100,Service or Programmed Residential Space,1
+17031251100,Social Services & Political Advocacy,4
+17031251100,Trade Service,1
+17031251200,Childcare and Schools,4
+17031251200,Dining,2
+17031251200,"Financial, Insurance, Real Estate, Legal, and Professional",1
+17031251200,Personal Service,2
+17031251200,Religious (except school or residence),3
+17031251200,Retail,7
+17031251200,Social Services & Political Advocacy,1
+17031251200,Trade Service,2
+17031251300,Arts and Entertainment,1
+17031251300,Childcare and Schools,7
+17031251300,Dining,8
+17031251300,"Financial, Insurance, Real Estate, Legal, and Professional",1
+17031251300,Personal Service,6
+17031251300,Religious (except school or residence),11
+17031251300,Retail,5
+17031251300,Service or Programmed Residential Space,1
+17031251300,Social Services & Political Advocacy,3
+17031251300,"Wholesale, Storage and Transportation",1
+17031251400,Arts and Entertainment,1
+17031251400,Childcare and Schools,8
+17031251400,Dining,4
+17031251400,"Financial, Insurance, Real Estate, Legal, and Professional",3
+17031251400,Fitness,1
+17031251400,Personal Service,7
+17031251400,Public Services,1
+17031251400,Religious (except school or residence),12
+17031251400,Retail,6
+17031251400,Service or Programmed Residential Space,1
+17031251400,Social Services & Political Advocacy,4
+17031251400,Trade Service,4
+17031251500,Childcare and Schools,7
+17031251500,Dining,3
+17031251500,"Financial, Insurance, Real Estate, Legal, and Professional",2
+17031251500,Personal Service,5
+17031251500,Religious (except school or residence),4
+17031251500,Retail,5
+17031251500,Service or Programmed Residential Space,3
+17031251500,Social Services & Political Advocacy,3
+17031251500,Trade Service,2
+17031251600,Arts and Entertainment,1
+17031251600,Childcare and Schools,2
+17031251600,Dining,1
+17031251600,"Financial, Insurance, Real Estate, Legal, and Professional",1
+17031251600,Personal Service,1
+17031251600,Religious (except school or residence),9
+17031251600,Retail,6
+17031251600,Service or Programmed Residential Space,1
+17031251600,Social Services & Political Advocacy,3
+17031251700,Childcare and Schools,3
+17031251700,Dining,2
+17031251700,"Financial, Insurance, Real Estate, Legal, and Professional",1
+17031251700,Industrial,2
+17031251700,Personal Service,5
+17031251700,Religious (except school or residence),4
+17031251700,Retail,14
+17031251700,Social Services & Political Advocacy,2
+17031251700,Trade Service,5
+17031251700,"Wholesale, Storage and Transportation",2
+17031251800,Childcare and Schools,7
+17031251800,Dining,5
+17031251800,"Financial, Insurance, Real Estate, Legal, and Professional",2
+17031251800,Health Services,3
+17031251800,Industrial,3
+17031251800,Personal Service,10
+17031251800,Religious (except school or residence),17
+17031251800,Retail,18
+17031251800,Service or Programmed Residential Space,1
+17031251800,Social Services & Political Advocacy,4
+17031251800,Trade Service,7
+17031251800,"Wholesale, Storage and Transportation",4
+17031251900,Arts and Entertainment,1
+17031251900,Childcare and Schools,2
+17031251900,Dining,6
+17031251900,Health Services,5
+17031251900,Other,1
+17031251900,Personal Service,1
+17031251900,Religious (except school or residence),8
+17031251900,Retail,13
+17031251900,Service or Programmed Residential Space,1
+17031251900,Trade Service,1
+17031252000,Arts and Entertainment,2
+17031252000,Childcare and Schools,7
+17031252000,Dining,8
+17031252000,"Financial, Insurance, Real Estate, Legal, and Professional",5
+17031252000,Health Services,2
+17031252000,Personal Service,10
+17031252000,Religious (except school or residence),8
+17031252000,Retail,10
+17031252000,Service or Programmed Residential Space,3
+17031252000,Social Services & Political Advocacy,3
+17031252000,Trade Service,5
+17031252101,Arts and Entertainment,2
+17031252101,Childcare and Schools,1
+17031252101,Dining,4
+17031252101,"Financial, Insurance, Real Estate, Legal, and Professional",2
+17031252101,Fitness,1
+17031252101,Personal Service,8
+17031252101,Public Services,1
+17031252101,Religious (except school or residence),2
+17031252101,Retail,3
+17031252101,Trade Service,4
+17031252102,Arts and Entertainment,2
+17031252102,Childcare and Schools,2
+17031252102,Dining,8
+17031252102,"Financial, Insurance, Real Estate, Legal, and Professional",6
+17031252102,Health Services,2
+17031252102,Other,2
+17031252102,Personal Service,7
+17031252102,Public Services,3
+17031252102,Religious (except school or residence),9
+17031252102,Retail,15
+17031252102,Trade Service,8
+17031252201,Childcare and Schools,3
+17031252201,Dining,2
+17031252201,Fitness,1
+17031252201,Health Services,3
+17031252201,Industrial,1
+17031252201,Personal Service,3
+17031252201,Religious (except school or residence),3
+17031252201,Retail,5
+17031252201,Social Services & Political Advocacy,3
+17031252201,Trade Service,1
+17031252202,Childcare and Schools,1
+17031252202,Dining,5
+17031252202,Health Services,2
+17031252202,Industrial,1
+17031252202,Religious (except school or residence),8
+17031252202,Retail,6
+17031252202,Service or Programmed Residential Space,3
+17031252202,Trade Service,6
+17031260100,Health Services,1
+17031260100,Personal Service,1
+17031260100,Religious (except school or residence),1
+17031260100,Retail,3
+17031260100,Service or Programmed Residential Space,1
+17031260100,Trade Service,5
+17031260100,"Wholesale, Storage and Transportation",1
+17031260200,Childcare and Schools,1
+17031260200,Cook County Land Bank,1
+17031260200,"Financial, Insurance, Real Estate, Legal, and Professional",1
+17031260200,Health Services,1
+17031260200,Industrial,2
+17031260200,Public Services,1
+17031260200,Religious (except school or residence),2
+17031260200,Retail,5
+17031260200,Trade Service,2
+17031260300,Arts and Entertainment,1
+17031260300,Childcare and Schools,1
+17031260300,Dining,1
+17031260300,Personal Service,1
+17031260300,Public Services,1
+17031260300,Religious (except school or residence),5
+17031260300,Retail,2
+17031260300,Social Services & Political Advocacy,1
+17031260300,Trade Service,2
+17031260400,Personal Service,1
+17031260400,Religious (except school or residence),1
+17031260400,Service or Programmed Residential Space,1
+17031260400,Trade Service,1
+17031260500,Childcare and Schools,1
+17031260500,Dining,1
+17031260500,Industrial,2
+17031260500,Religious (except school or residence),4
+17031260500,Retail,5
+17031260500,"Wholesale, Storage and Transportation",1
+17031260600,Dining,1
+17031260600,Personal Service,1
+17031260600,Religious (except school or residence),2
+17031260600,Retail,3
+17031260600,Trade Service,1
+17031260700,Childcare and Schools,1
+17031260700,Dining,2
+17031260700,"Financial, Insurance, Real Estate, Legal, and Professional",2
+17031260700,Health Services,1
+17031260700,Personal Service,2
+17031260700,Religious (except school or residence),6
+17031260700,Retail,5
+17031260800,Childcare and Schools,1
+17031260800,Dining,1
+17031260800,"Financial, Insurance, Real Estate, Legal, and Professional",1
+17031260800,Personal Service,2
+17031260800,Public Services,1
+17031260800,Religious (except school or residence),2
+17031260800,Retail,14
+17031260800,Trade Service,1
+17031260900,Dining,1
+17031260900,Health Services,2
+17031260900,Religious (except school or residence),2
+17031260900,Retail,4
+17031261000,Arts and Entertainment,1
+17031261000,Childcare and Schools,4
+17031261000,Religious (except school or residence),2
+17031261000,Social Services & Political Advocacy,1
+17031261000,Trade Service,10
+17031261000,"Wholesale, Storage and Transportation",1
+17031270500,Retail,1
+17031271400,Personal Service,1
+17031271800,Childcare and Schools,1
+17031271800,Dining,1
+17031271800,Religious (except school or residence),2
+17031271800,Trade Service,1
+17031280100,Health Services,1
+17031280400,Arts and Entertainment,1
+17031280400,Childcare and Schools,4
+17031280400,Dining,1
+17031280400,"Financial, Insurance, Real Estate, Legal, and Professional",3
+17031280400,Industrial,3
+17031280400,Personal Service,1
+17031280400,Religious (except school or residence),1
+17031280400,Retail,1
+17031280400,Social Services & Political Advocacy,1
+17031280400,Trade Service,6
+17031280400,"Wholesale, Storage and Transportation",2
+17031280800,Childcare and Schools,1
+17031280800,Dining,2
+17031280800,"Financial, Insurance, Real Estate, Legal, and Professional",1
+17031280800,Public Services,2
+17031280800,Retail,4
+17031280800,Social Services & Political Advocacy,1
+17031280900,Dining,8
+17031280900,"Financial, Insurance, Real Estate, Legal, and Professional",3
+17031280900,Personal Service,4
+17031280900,Retail,6
+17031281900,Arts and Entertainment,1
+17031281900,Dining,1
+17031281900,Personal Service,1
+17031282700,Childcare and Schools,1
+17031282700,Dining,15
+17031282700,"Financial, Insurance, Real Estate, Legal, and Professional",5
+17031282700,Health Services,4
+17031282700,Industrial,1
+17031282700,Personal Service,2
+17031282700,Religious (except school or residence),3
+17031282700,Retail,8
+17031282700,Service or Programmed Residential Space,1
+17031282700,Social Services & Political Advocacy,2
+17031282700,Trade Service,5
+17031282700,"Wholesale, Storage and Transportation",1
+17031282800,Childcare and Schools,1
+17031282800,Dining,16
+17031282800,"Financial, Insurance, Real Estate, Legal, and Professional",12
+17031282800,Fitness,1
+17031282800,Health Services,5
+17031282800,Personal Service,12
+17031282800,Religious (except school or residence),1
+17031282800,Retail,10
+17031282800,Social Services & Political Advocacy,5
+17031282800,Trade Service,4
+17031283100,Childcare and Schools,2
+17031283100,Dining,39
+17031283100,"Financial, Insurance, Real Estate, Legal, and Professional",5
+17031283100,Health Services,1
+17031283100,Personal Service,2
+17031283100,Retail,9
+17031283100,Service or Programmed Residential Space,2
+17031283100,Trade Service,3
+17031283200,Dining,12
+17031283200,"Financial, Insurance, Real Estate, Legal, and Professional",5
+17031283200,Health Services,8
+17031283200,Public Services,1
+17031283200,Retail,2
+17031283200,Service or Programmed Residential Space,1
+17031283200,Trade Service,1
+17031283800,Arts and Entertainment,2
+17031283800,Childcare and Schools,2
+17031283800,"Financial, Insurance, Real Estate, Legal, and Professional",3
+17031283800,Public Services,1
+17031283800,Service or Programmed Residential Space,1
+17031283800,Trade Service,1
+17031290900,Childcare and Schools,4
+17031290900,Dining,1
+17031290900,F.I.R.E,1
+17031290900,Fitness,1
+17031290900,Health Services,1
+17031290900,Industrial,7
+17031290900,Non-residential religious,5
+17031290900,Personal Service,1
+17031290900,Religious (except school or residence),20
+17031290900,Retail,5
+17031290900,Service or Programmed Residential Space,1
+17031290900,Social Services & Political Advocacy,1
+17031290900,Trade Service,7
+17031290900,"Wholesale, Storage and Transportation",1
+17031291200,Childcare and Schools,2
+17031291200,Dining,1
+17031291200,Non-residential religious,4
+17031291200,Religious (except school or residence),5
+17031291200,Retail,1
+17031291200,Social Services & Political Advocacy,1
+17031291600,Industrial,1
+17031292200,Childcare and Schools,2
+17031292200,Dining,1
+17031292200,Health Services,2
+17031292200,Non-residential religious,1
+17031292200,Public Services,1
+17031292200,Religious (except school or residence),4
+17031292200,Retail,1
+17031292200,Trade Service,3
+17031292400,Childcare and Schools,1
+17031292400,Dining,3
+17031292400,F.I.R.E,3
+17031292400,Health Services,4
+17031292400,Non-residential religious,2
+17031292400,Personal Service,5
+17031292400,Public Services,3
+17031292400,Religious (except school or residence),5
+17031292400,Retail,2
+17031292400,Social Services & Political Advocacy,4
+17031292500,Arts and Entertainment,1
+17031292500,Childcare and Schools,3
+17031292500,F.I.R.E,3
+17031292500,Health Services,1
+17031292500,Industrial,11
+17031292500,Non-residential religious,3
+17031292500,Personal Service,1
+17031292500,Religious (except school or residence),9
+17031292500,Retail,9
+17031292500,Trade Service,10
+17031292500,"Wholesale, Storage and Transportation",4
+17031300500,Dining,1
+17031300500,Personal Service,3
+17031300500,Trade Service,1
+17031300500,"Wholesale, Storage and Transportation",1
+17031300600,Arts and Entertainment,1
+17031300600,Childcare and Schools,1
+17031300600,F.I.R.E,1
+17031300600,Industrial,1
+17031300600,Non-residential religious,4
+17031300600,Personal Service,1
+17031300600,Retail,3
+17031300600,Trade Service,1
+17031300700,Dining,1
+17031300700,Health Services,1
+17031300700,Non-residential religious,1
+17031300700,Retail,2
+17031300700,Social Services & Political Advocacy,1
+17031300700,Trade Service,2
+17031300800,Non-residential religious,1
+17031300800,Retail,1
+17031300900,Dining,1
+17031301600,Personal Service,2
+17031301600,Retail,1
+17031301702,Dining,1
+17031301801,Personal Service,1
+17031301802,Dining,1
+17031301802,Non-residential religious,3
+17031301802,Public Services,1
+17031301803,Dining,1
+17031301803,Retail,1
+17031310200,Arts and Entertainment,3
+17031310200,Childcare and Schools,1
+17031310200,Dining,5
+17031310200,"Financial, Insurance, Real Estate, Legal, and Professional",5
+17031310200,Fitness,3
+17031310200,Personal Service,2
+17031310200,Religious (except school or residence),1
+17031310200,Retail,9
+17031310200,Trade Service,5
+17031310300,Arts and Entertainment,1
+17031310300,Childcare and Schools,9
+17031310300,Dining,6
+17031310300,"Financial, Insurance, Real Estate, Legal, and Professional",6
+17031310300,Fitness,4
+17031310300,Health Services,6
+17031310300,Other,1
+17031310300,Personal Service,13
+17031310300,Retail,9
+17031310300,Service or Programmed Residential Space,1
+17031310300,Trade Service,6
+17031310300,"Wholesale, Storage and Transportation",1
+17031310400,Childcare and Schools,4
+17031310400,Dining,2
+17031310400,"Financial, Insurance, Real Estate, Legal, and Professional",1
+17031310400,Personal Service,10
+17031310400,Retail,6
+17031310400,Trade Service,9
+17031310500,Arts and Entertainment,1
+17031310500,Childcare and Schools,4
+17031310500,Dining,15
+17031310500,Fitness,1
+17031310500,Health Services,1
+17031310500,Industrial,1
+17031310500,Other,1
+17031310500,Personal Service,5
+17031310500,Retail,10
+17031310500,Social Services & Political Advocacy,5
+17031310500,Trade Service,6
+17031310500,"Wholesale, Storage and Transportation",1
+17031310600,Arts and Entertainment,6
+17031310600,Childcare and Schools,6
+17031310600,Dining,68
+17031310600,"Financial, Insurance, Real Estate, Legal, and Professional",23
+17031310600,Fitness,1
+17031310600,Health Services,7
+17031310600,Industrial,3
+17031310600,Personal Service,20
+17031310600,Public Services,2
+17031310600,Religious (except school or residence),3
+17031310600,Retail,52
+17031310600,Service or Programmed Residential Space,1
+17031310600,Social Services & Political Advocacy,4
+17031310600,Trade Service,17
+17031310600,"Wholesale, Storage and Transportation",2
+17031310700,Arts and Entertainment,2
+17031310700,Childcare and Schools,3
+17031310700,Dining,12
+17031310700,"Financial, Insurance, Real Estate, Legal, and Professional",7
+17031310700,Other,1
+17031310700,Personal Service,7
+17031310700,Public Services,1
+17031310700,Religious (except school or residence),1
+17031310700,Retail,26
+17031310700,Social Services & Political Advocacy,1
+17031310700,"Wholesale, Storage and Transportation",1
+17031310800,Arts and Entertainment,3
+17031310800,Childcare and Schools,3
+17031310800,Dining,30
+17031310800,"Financial, Insurance, Real Estate, Legal, and Professional",22
+17031310800,Health Services,18
+17031310800,Other,1
+17031310800,Personal Service,13
+17031310800,Religious (except school or residence),3
+17031310800,Retail,20
+17031310800,Social Services & Political Advocacy,6
+17031310800,Trade Service,10
+17031310800,"Wholesale, Storage and Transportation",2
+17031310900,Arts and Entertainment,1
+17031310900,Childcare and Schools,4
+17031310900,Dining,23
+17031310900,"Financial, Insurance, Real Estate, Legal, and Professional",8
+17031310900,Fitness,1
+17031310900,Health Services,3
+17031310900,Industrial,1
+17031310900,Other,1
+17031310900,Personal Service,12
+17031310900,Public Services,3
+17031310900,Retail,7
+17031310900,Social Services & Political Advocacy,4
+17031310900,Trade Service,8
+17031310900,Unknown,1
+17031310900,"Wholesale, Storage and Transportation",2
+17031320400,"Wholesale, Storage and Transportation",1
+17031320600,"Financial, Insurance, Real Estate, Legal, and Professional",1
+17031320600,Health Services,1
+17031330103,Social Services & Political Advocacy,1
+17031330200,Dining,1
+17031330200,"Financial, Insurance, Real Estate, Legal, and Professional",2
+17031330200,Personal Service,3
+17031330200,Retail,3
+17031340300,Arts and Entertainment,1
+17031340300,Childcare and Schools,1
+17031340300,Dining,4
+17031340300,"Financial, Insurance, Real Estate, Legal, and Professional",2
+17031340300,Personal Service,3
+17031340300,Social Services & Political Advocacy,2
+17031340300,Trade Service,2
+17031340300,"Wholesale, Storage and Transportation",2
+17031340400,Arts and Entertainment,3
+17031340400,Dining,9
+17031340400,"Financial, Insurance, Real Estate, Legal, and Professional",5
+17031340400,Health Services,2
+17031340400,Personal Service,1
+17031340400,Religious (except school or residence),3
+17031340400,Retail,10
+17031340400,Social Services & Political Advocacy,1
+17031340400,Trade Service,5
+17031340400,"Wholesale, Storage and Transportation",3
+17031340500,Childcare and Schools,2
+17031340500,Dining,7
+17031340500,"Financial, Insurance, Real Estate, Legal, and Professional",2
+17031340500,Health Services,1
+17031340500,Other,1
+17031340500,Religious (except school or residence),1
+17031340500,Retail,1
+17031340500,Service or Programmed Residential Space,3
+17031340500,Trade Service,9
+17031340600,Arts and Entertainment,1
+17031340600,Childcare and Schools,1
+17031340600,"Financial, Insurance, Real Estate, Legal, and Professional",2
+17031340600,Fitness,1
+17031340600,Religious (except school or residence),1
+17031340600,Retail,1
+17031340600,Service or Programmed Residential Space,1
+17031340600,Social Services & Political Advocacy,1
+17031350100,Personal Service,1
+17031350100,Social Services & Political Advocacy,1
+17031350400,Childcare and Schools,3
+17031350400,Fitness,1
+17031350400,Service or Programmed Residential Space,1
+17031351000,Arts and Entertainment,1
+17031351000,Dining,9
+17031351000,"Financial, Insurance, Real Estate, Legal, and Professional",1
+17031351000,Fitness,2
+17031351000,Health Services,1
+17031351000,Personal Service,1
+17031351000,Religious (except school or residence),1
+17031351000,Retail,5
+17031351000,Social Services & Political Advocacy,1
+17031351000,Trade Service,2
+17031351100,Childcare and Schools,2
+17031351100,Dining,2
+17031351100,"Financial, Insurance, Real Estate, Legal, and Professional",2
+17031351100,Fitness,1
+17031351100,Personal Service,1
+17031351100,Public Services,2
+17031351100,Retail,2
+17031351100,Service or Programmed Residential Space,2
+17031351100,Social Services & Political Advocacy,2
+17031351400,Arts and Entertainment,2
+17031351400,Childcare and Schools,3
+17031351400,Dining,4
+17031351400,"Financial, Insurance, Real Estate, Legal, and Professional",4
+17031351400,Fitness,1
+17031351400,Health Services,1
+17031351400,Other,1
+17031351400,Personal Service,8
+17031351400,Public Services,3
+17031351400,Religious (except school or residence),5
+17031351400,Retail,2
+17031351400,Trade Service,1
+17031351500,Dining,3
+17031351500,"Financial, Insurance, Real Estate, Legal, and Professional",1
+17031351500,Trade Service,1
+17031360200,Childcare and Schools,1
+17031360200,"Financial, Insurance, Real Estate, Legal, and Professional",1
+17031360200,Religious (except school or residence),1
+17031360200,Retail,1
+17031380100,Childcare and Schools,4
+17031380100,Dining,3
+17031380100,"Financial, Insurance, Real Estate, Legal, and Professional",2
+17031380100,Fitness,1
+17031380100,Other,1
+17031380100,Personal Service,7
+17031380100,Religious (except school or residence),9
+17031380100,Retail,2
+17031380100,Service or Programmed Residential Space,1
+17031380100,Social Services & Political Advocacy,2
+17031380100,Trade Service,2
+17031380200,Childcare and Schools,1
+17031380200,Dining,2
+17031380200,"Financial, Insurance, Real Estate, Legal, and Professional",2
+17031380200,Personal Service,1
+17031380200,Religious (except school or residence),2
+17031380200,Retail,5
+17031380200,Service or Programmed Residential Space,2
+17031380200,Social Services & Political Advocacy,2
+17031380200,Trade Service,1
+17031380600,Childcare and Schools,5
+17031380600,Dining,1
+17031380600,Other,1
+17031380600,Personal Service,3
+17031380600,Public Services,3
+17031380600,Religious (except school or residence),13
+17031380600,Retail,1
+17031380600,Service or Programmed Residential Space,8
+17031380600,Social Services & Political Advocacy,4
+17031380600,Trade Service,3
+17031380600,"Wholesale, Storage and Transportation",3
+17031381200,Arts and Entertainment,4
+17031381200,Childcare and Schools,1
+17031381200,Dining,3
+17031381200,"Financial, Insurance, Real Estate, Legal, and Professional",4
+17031381200,Personal Service,7
+17031381200,Religious (except school or residence),2
+17031381200,Retail,4
+17031381200,Service or Programmed Residential Space,1
+17031381200,Social Services & Political Advocacy,1
+17031381200,"Wholesale, Storage and Transportation",1
+17031381400,Childcare and Schools,1
+17031381400,Dining,4
+17031381400,"Financial, Insurance, Real Estate, Legal, and Professional",4
+17031381400,Personal Service,3
+17031381400,Public Services,1
+17031381400,Religious (except school or residence),7
+17031381400,Retail,12
+17031381400,Social Services & Political Advocacy,1
+17031381500,Dining,2
+17031381500,Industrial,1
+17031381500,Religious (except school or residence),3
+17031381500,Retail,5
+17031381500,Service or Programmed Residential Space,1
+17031381700,Childcare and Schools,2
+17031381700,Fitness,1
+17031381700,Health Services,2
+17031381700,Personal Service,1
+17031381700,Public Services,2
+17031381700,Retail,1
+17031381700,Trade Service,1
+17031381700,"Wholesale, Storage and Transportation",1
+17031381800,Childcare and Schools,4
+17031381800,Dining,2
+17031381800,"Financial, Insurance, Real Estate, Legal, and Professional",2
+17031381800,Health Services,1
+17031381800,Personal Service,3
+17031381800,Public Services,1
+17031381800,Religious (except school or residence),3
+17031381800,Retail,2
+17031381800,Service or Programmed Residential Space,2
+17031381800,Social Services & Political Advocacy,1
+17031381800,Trade Service,1
+17031381900,Arts and Entertainment,1
+17031381900,Childcare and Schools,1
+17031381900,"Financial, Insurance, Real Estate, Legal, and Professional",1
+17031381900,Health Services,3
+17031381900,Personal Service,1
+17031381900,Religious (except school or residence),3
+17031381900,Service or Programmed Residential Space,2
+17031381900,Social Services & Political Advocacy,2
+17031390100,Dining,12
+17031390100,"Financial, Insurance, Real Estate, Legal, and Professional",5
+17031390100,Health Services,5
+17031390100,Personal Service,5
+17031390100,Religious (except school or residence),2
+17031390100,Retail,9
+17031390100,Trade Service,1
+17031390200,Arts and Entertainment,1
+17031390200,Childcare and Schools,3
+17031390200,Dining,5
+17031390200,"Financial, Insurance, Real Estate, Legal, and Professional",1
+17031390200,Fitness,2
+17031390200,Health Services,1
+17031390200,Personal Service,3
+17031390200,Religious (except school or residence),3
+17031390200,Retail,4
+17031390300,Arts and Entertainment,1
+17031390300,Childcare and Schools,1
+17031390300,Dining,7
+17031390300,Fitness,1
+17031390300,Other,2
+17031390300,Personal Service,5
+17031390300,Public Services,1
+17031390300,Religious (except school or residence),3
+17031390300,Retail,1
+17031390300,Service or Programmed Residential Space,2
+17031390300,Social Services & Political Advocacy,2
+17031390300,Trade Service,1
+17031390400,Childcare and Schools,1
+17031390400,"Financial, Insurance, Real Estate, Legal, and Professional",2
+17031390400,Health Services,1
+17031390400,Personal Service,5
+17031390400,Religious (except school or residence),1
+17031390400,Retail,1
+17031390400,Service or Programmed Residential Space,3
+17031390400,Social Services & Political Advocacy,1
+17031390400,Trade Service,1
+17031390500,Personal Service,1
+17031390500,Religious (except school or residence),2
+17031390600,Childcare and Schools,3
+17031390600,"Financial, Insurance, Real Estate, Legal, and Professional",1
+17031390600,Fitness,4
+17031390600,Health Services,4
+17031390600,Industrial,1
+17031390600,Other,1
+17031390600,Personal Service,1
+17031390600,Retail,1
+17031390700,Childcare and Schools,3
+17031390700,Dining,2
+17031390700,"Financial, Insurance, Real Estate, Legal, and Professional",1
+17031390700,Health Services,1
+17031390700,Personal Service,1
+17031390700,Public Services,1
+17031390700,Religious (except school or residence),2
+17031390700,Retail,3
+17031390700,Service or Programmed Residential Space,1
+17031400300,Arts and Entertainment,2
+17031400300,Childcare and Schools,2
+17031400300,Fitness,2
+17031400300,Health Services,1
+17031400300,Retail,2
+17031400300,Service or Programmed Residential Space,1
+17031400300,Unknown,1
+17031400300,"Wholesale, Storage and Transportation",1
+17031400400,Arts and Entertainment,2
+17031400400,Dining,1
+17031400400,"Financial, Insurance, Real Estate, Legal, and Professional",1
+17031400400,Religious (except school or residence),3
+17031400400,Retail,2
+17031400400,Social Services & Political Advocacy,1
+17031400400,Trade Service,1
+17031400500,Childcare and Schools,2
+17031400500,"Financial, Insurance, Real Estate, Legal, and Professional",1
+17031400500,Personal Service,1
+17031400500,Religious (except school or residence),7
+17031400500,Service or Programmed Residential Space,1
+17031400800,Childcare and Schools,2
+17031400800,Public Services,1
+17031400800,Religious (except school or residence),4
+17031400800,Retail,1
+17031400800,Service or Programmed Residential Space,2
+17031400800,Social Services & Political Advocacy,1
+17031400800,Trade Service,3
+17031410100,Childcare and Schools,2
+17031410100,Dining,13
+17031410100,"Financial, Insurance, Real Estate, Legal, and Professional",3
+17031410100,Fitness,3
+17031410100,Health Services,8
+17031410100,Other,1
+17031410100,Personal Service,14
+17031410100,Religious (except school or residence),2
+17031410100,Retail,6
+17031410100,Service or Programmed Residential Space,6
+17031410100,Social Services & Political Advocacy,1
+17031410100,Trade Service,3
+17031410200,Childcare and Schools,3
+17031410200,Service or Programmed Residential Space,3
+17031410500,Childcare and Schools,3
+17031410500,Dining,3
+17031410500,Health Services,1
+17031410500,Personal Service,2
+17031410500,Religious (except school or residence),1
+17031410500,Retail,1
+17031410500,Social Services & Political Advocacy,2
+17031410500,"Wholesale, Storage and Transportation",1
+17031410600,Arts and Entertainment,4
+17031410600,Childcare and Schools,3
+17031410600,Dining,11
+17031410600,"Financial, Insurance, Real Estate, Legal, and Professional",4
+17031410600,Personal Service,11
+17031410600,Public Services,2
+17031410600,Religious (except school or residence),5
+17031410600,Retail,5
+17031410600,Service or Programmed Residential Space,1
+17031410600,Trade Service,1
+17031410700,Childcare and Schools,7
+17031410700,Dining,44
+17031410700,"Financial, Insurance, Real Estate, Legal, and Professional",11
+17031410700,Fitness,1
+17031410700,Health Services,3
+17031410700,Other,2
+17031410700,Personal Service,9
+17031410700,Public Services,2
+17031410700,Religious (except school or residence),1
+17031410700,Retail,18
+17031410700,Service or Programmed Residential Space,2
+17031410700,Social Services & Political Advocacy,2
+17031410700,Trade Service,3
+17031410800,Arts and Entertainment,2
+17031410800,Childcare and Schools,6
+17031410800,Dining,49
+17031410800,"Financial, Insurance, Real Estate, Legal, and Professional",32
+17031410800,Fitness,1
+17031410800,Health Services,29
+17031410800,Personal Service,13
+17031410800,Public Services,1
+17031410800,Religious (except school or residence),5
+17031410800,Retail,33
+17031410800,Service or Programmed Residential Space,4
+17031410800,Social Services & Political Advocacy,3
+17031410800,Trade Service,8
+17031410800,"Wholesale, Storage and Transportation",1
+17031410900,Arts and Entertainment,1
+17031410900,Childcare and Schools,5
+17031410900,Dining,9
+17031410900,"Financial, Insurance, Real Estate, Legal, and Professional",9
+17031410900,Fitness,2
+17031410900,Health Services,4
+17031410900,Personal Service,9
+17031410900,Religious (except school or residence),4
+17031410900,Retail,6
+17031410900,Service or Programmed Residential Space,5
+17031410900,Social Services & Political Advocacy,3
+17031410900,Trade Service,2
+17031411000,Arts and Entertainment,5
+17031411000,Childcare and Schools,5
+17031411000,Dining,11
+17031411000,"Financial, Insurance, Real Estate, Legal, and Professional",8
+17031411000,Fitness,1
+17031411000,Health Services,7
+17031411000,Personal Service,8
+17031411000,Retail,9
+17031411000,Service or Programmed Residential Space,3
+17031411000,Trade Service,4
+17031411100,Childcare and Schools,3
+17031411100,Dining,11
+17031411100,"Financial, Insurance, Real Estate, Legal, and Professional",5
+17031411100,Fitness,2
+17031411100,Health Services,7
+17031411100,Personal Service,10
+17031411100,Public Services,1
+17031411100,Retail,4
+17031411100,Service or Programmed Residential Space,1
+17031411100,Social Services & Political Advocacy,2
+17031411100,Trade Service,5
+17031411100,"Wholesale, Storage and Transportation",1
+17031411200,Arts and Entertainment,2
+17031411200,Childcare and Schools,13
+17031411200,Dining,10
+17031411200,"Financial, Insurance, Real Estate, Legal, and Professional",2
+17031411200,Health Services,2
+17031411200,Personal Service,1
+17031411200,Public Services,1
+17031411200,Religious (except school or residence),4
+17031411200,Retail,3
+17031411200,Service or Programmed Residential Space,2
+17031411200,Trade Service,2
+17031420100,Childcare and Schools,2
+17031420100,Dining,3
+17031420100,Health Services,1
+17031420100,Other,1
+17031420100,Personal Service,3
+17031420100,Public Services,2
+17031420100,Service or Programmed Residential Space,2
+17031420200,Arts and Entertainment,1
+17031420200,Childcare and Schools,5
+17031420200,"Financial, Insurance, Real Estate, Legal, and Professional",1
+17031420200,Other,3
+17031420200,Public Services,1
+17031420200,Religious (except school or residence),1
+17031420200,Service or Programmed Residential Space,2
+17031420200,Social Services & Political Advocacy,1
+17031420300,Childcare and Schools,3
+17031420300,Dining,1
+17031420300,"Financial, Insurance, Real Estate, Legal, and Professional",3
+17031420300,Religious (except school or residence),1
+17031420300,Service or Programmed Residential Space,3
+17031420400,Childcare and Schools,9
+17031420400,Cook County Land Bank,1
+17031420400,Dining,3
+17031420400,Fitness,1
+17031420400,Personal Service,2
+17031420400,Public Services,3
+17031420400,Retail,2
+17031420400,Service or Programmed Residential Space,4
+17031420400,Social Services & Political Advocacy,3
+17031420400,Trade Service,3
+17031420400,"Wholesale, Storage and Transportation",1
+17031420500,Childcare and Schools,2
+17031420500,Cook County Land Bank,3
+17031420500,Other,1
+17031420500,Personal Service,1
+17031420500,Public Services,1
+17031420500,Retail,2
+17031420500,Social Services & Political Advocacy,4
+17031420600,Childcare and Schools,2
+17031420600,Cook County Land Bank,4
+17031420600,"Financial, Insurance, Real Estate, Legal, and Professional",1
+17031420600,Health Services,2
+17031420600,Other,1
+17031420600,Personal Service,1
+17031420600,Religious (except school or residence),1
+17031420600,Retail,1
+17031420600,Social Services & Political Advocacy,2
+17031420700,Childcare and Schools,8
+17031420700,Cook County Land Bank,23
+17031420700,Dining,13
+17031420700,F.I.R.E,1
+17031420700,"Financial, Insurance, Real Estate, Legal, and Professional",5
+17031420700,Health Services,1
+17031420700,Personal Service,17
+17031420700,Public Services,5
+17031420700,Religious (except school or residence),10
+17031420700,Retail,10
+17031420700,Service or Programmed Residential Space,2
+17031420700,Social Services & Political Advocacy,1
+17031420700,Trade Service,2
+17031420800,Arts and Entertainment,1
+17031420800,Childcare and Schools,1
+17031420800,Cook County Land Bank,2
+17031420800,Dining,3
+17031420800,"Financial, Insurance, Real Estate, Legal, and Professional",1
+17031420800,Other,2
+17031420800,Personal Service,3
+17031420800,Religious (except school or residence),3
+17031420800,Retail,16
+17031420800,Social Services & Political Advocacy,1
+17031420800,"Wholesale, Storage and Transportation",1
+17031421200,Childcare and Schools,1
+17031421200,Cook County Land Bank,7
+17031421200,Personal Service,3
+17031421200,Public Services,1
+17031421200,Religious (except school or residence),3
+17031421200,Retail,4
+17031421200,Service or Programmed Residential Space,2
+17031421200,Trade Service,2
+17031421200,"Wholesale, Storage and Transportation",1
+17031430101,Arts and Entertainment,2
+17031430101,Childcare and Schools,2
+17031430101,Dining,2
+17031430101,F.I.R.E,4
+17031430101,Personal Service,6
+17031430101,Retail,8
+17031430101,Trade Service,5
+17031430102,Arts and Entertainment,3
+17031430102,Dining,2
+17031430102,F.I.R.E,3
+17031430102,Health Services,2
+17031430102,Personal Service,2
+17031430102,Religious (except school or residence),1
+17031430102,Retail,1
+17031430102,Social Services & Political Advocacy,1
+17031430102,Trade Service,2
+17031430200,Arts and Entertainment,1
+17031430200,Childcare and Schools,4
+17031430200,Dining,7
+17031430200,F.I.R.E,12
+17031430200,Health Services,1
+17031430200,Industrial,1
+17031430200,Other,2
+17031430200,Personal Service,1
+17031430200,Religious (except school or residence),2
+17031430200,Retail,6
+17031430200,Service or Programmed Residential Space,1
+17031430200,Social Services & Political Advocacy,3
+17031430200,Trade Service,5
+17031430200,"Wholesale, Storage and Transportation",1
+17031430300,Arts and Entertainment,2
+17031430300,Childcare and Schools,1
+17031430300,Dining,7
+17031430300,F.I.R.E,2
+17031430300,Non-residential religious,1
+17031430300,Personal Service,8
+17031430300,Religious (except school or residence),2
+17031430300,Retail,8
+17031430300,Trade Service,2
+17031430400,Arts and Entertainment,1
+17031430400,Childcare and Schools,2
+17031430400,Dining,7
+17031430400,F.I.R.E,4
+17031430400,Health Services,1
+17031430400,Industrial,3
+17031430400,Non-residential religious,3
+17031430400,Personal Service,4
+17031430400,Religious (except school or residence),2
+17031430400,Retail,8
+17031430400,Trade Service,8
+17031430500,Arts and Entertainment,1
+17031430500,Childcare and Schools,4
+17031430500,Dining,3
+17031430500,F.I.R.E,6
+17031430500,Fitness,2
+17031430500,Health Services,6
+17031430500,Non-residential religious,1
+17031430500,Personal Service,9
+17031430500,Religious (except school or residence),1
+17031430500,Retail,11
+17031430500,Service or Programmed Residential Space,6
+17031430500,Social Services & Political Advocacy,3
+17031430500,Trade Service,5
+17031430600,Childcare and Schools,2
+17031430600,Dining,10
+17031430600,F.I.R.E,2
+17031430600,Fitness,1
+17031430600,Health Services,8
+17031430600,Non-residential religious,4
+17031430600,Personal Service,6
+17031430600,Public Services,1
+17031430600,Religious (except school or residence),4
+17031430600,Retail,17
+17031430600,Service or Programmed Residential Space,5
+17031430600,Social Services & Political Advocacy,2
+17031430600,Trade Service,2
+17031430700,Childcare and Schools,4
+17031430700,Dining,6
+17031430700,F.I.R.E,6
+17031430700,Health Services,5
+17031430700,Personal Service,4
+17031430700,Religious (except school or residence),1
+17031430700,Retail,2
+17031430700,Service or Programmed Residential Space,3
+17031430700,Trade Service,4
+17031430700,"Wholesale, Storage and Transportation",1
+17031430800,Arts and Entertainment,2
+17031430800,Childcare and Schools,4
+17031430800,F.I.R.E,2
+17031430800,Health Services,2
+17031430800,Non-residential religious,3
+17031430800,Personal Service,3
+17031430800,Retail,4
+17031430800,Service or Programmed Residential Space,3
+17031430800,Trade Service,3
+17031430900,Arts and Entertainment,1
+17031430900,Childcare and Schools,3
+17031430900,Dining,1
+17031430900,Health Services,1
+17031430900,Non-residential religious,1
+17031430900,Personal Service,3
+17031430900,Religious (except school or residence),2
+17031430900,Retail,3
+17031430900,Trade Service,2
+17031431200,Childcare and Schools,2
+17031431200,Dining,4
+17031431200,F.I.R.E,1
+17031431200,Fitness,1
+17031431200,Health Services,3
+17031431200,Industrial,1
+17031431200,Personal Service,5
+17031431200,Religious (except school or residence),3
+17031431200,Retail,15
+17031431200,Service or Programmed Residential Space,2
+17031431200,Social Services & Political Advocacy,1
+17031431200,Trade Service,6
+17031431301,Arts and Entertainment,1
+17031431301,Childcare and Schools,2
+17031431301,Dining,1
+17031431301,F.I.R.E,2
+17031431301,Health Services,2
+17031431301,Non-residential religious,3
+17031431301,Personal Service,6
+17031431301,Religious (except school or residence),2
+17031431301,Retail,6
+17031431301,Trade Service,6
+17031431302,Arts and Entertainment,1
+17031431302,Childcare and Schools,2
+17031431302,Dining,3
+17031431302,F.I.R.E,4
+17031431302,Non-residential religious,2
+17031431302,Personal Service,4
+17031431302,Public Services,3
+17031431302,Religious (except school or residence),4
+17031431302,Retail,10
+17031431302,Social Services & Political Advocacy,2
+17031431302,Trade Service,6
+17031431302,"Wholesale, Storage and Transportation",1
+17031431400,Childcare and Schools,6
+17031431400,Dining,1
+17031431400,F.I.R.E,4
+17031431400,Fitness,1
+17031431400,Non-residential religious,4
+17031431400,Other,1
+17031431400,Personal Service,2
+17031431400,Public Services,1
+17031431400,Religious (except school or residence),1
+17031431400,Retail,1
+17031431400,Service or Programmed Residential Space,7
+17031431400,Trade Service,3
+17031431400,"Wholesale, Storage and Transportation",1
+17031440101,Dining,5
+17031440101,F.I.R.E,2
+17031440101,"Financial, Insurance, Real Estate, Legal, and Professional",8
+17031440101,Health Services,2
+17031440101,Personal Service,12
+17031440101,Religious (except school or residence),1
+17031440101,Retail,7
+17031440101,Social Services & Political Advocacy,1
+17031440101,Trade Service,2
+17031440102,Arts and Entertainment,1
+17031440102,Childcare and Schools,4
+17031440102,Dining,16
+17031440102,"Financial, Insurance, Real Estate, Legal, and Professional",8
+17031440102,Health Services,11
+17031440102,Non-residential religious,1
+17031440102,Personal Service,23
+17031440102,Religious (except school or residence),3
+17031440102,Retail,42
+17031440102,Social Services & Political Advocacy,4
+17031440102,Trade Service,4
+17031440102,"Wholesale, Storage and Transportation",2
+17031440201,Dining,6
+17031440201,F.I.R.E,1
+17031440201,"Financial, Insurance, Real Estate, Legal, and Professional",5
+17031440201,Health Services,4
+17031440201,Non-residential religious,1
+17031440201,Other,1
+17031440201,Personal Service,19
+17031440201,Public Services,2
+17031440201,Religious (except school or residence),3
+17031440201,Retail,21
+17031440201,Trade Service,2
+17031440201,"Wholesale, Storage and Transportation",1
+17031440202,Arts and Entertainment,4
+17031440202,Childcare and Schools,3
+17031440202,Dining,28
+17031440202,"Financial, Insurance, Real Estate, Legal, and Professional",8
+17031440202,Fitness,1
+17031440202,Health Services,3
+17031440202,Other,1
+17031440202,Personal Service,11
+17031440202,Religious (except school or residence),2
+17031440202,Retail,15
+17031440202,Service or Programmed Residential Space,1
+17031440202,Social Services & Political Advocacy,1
+17031440202,Trade Service,2
+17031440300,Arts and Entertainment,1
+17031440300,Childcare and Schools,5
+17031440300,Dining,8
+17031440300,"Financial, Insurance, Real Estate, Legal, and Professional",6
+17031440300,Personal Service,15
+17031440300,Public Services,1
+17031440300,Religious (except school or residence),2
+17031440300,Retail,8
+17031440300,Trade Service,2
+17031440600,Dining,1
+17031440600,"Financial, Insurance, Real Estate, Legal, and Professional",2
+17031440600,Personal Service,2
+17031440600,Religious (except school or residence),1
+17031440700,Arts and Entertainment,2
+17031440700,Childcare and Schools,1
+17031440700,Cook County Land Bank,1
+17031440700,Dining,5
+17031440700,"Financial, Insurance, Real Estate, Legal, and Professional",5
+17031440700,Health Services,2
+17031440700,Non-residential religious,1
+17031440700,Personal Service,7
+17031440700,Religious (except school or residence),2
+17031440700,Retail,1
+17031440700,Social Services & Political Advocacy,3
+17031440700,Trade Service,1
+17031440700,Unknown,1
+17031440800,Childcare and Schools,2
+17031440800,"Financial, Insurance, Real Estate, Legal, and Professional",1
+17031440800,Personal Service,4
+17031440800,Religious (except school or residence),1
+17031440800,Retail,3
+17031440800,Social Services & Political Advocacy,2
+17031440900,Childcare and Schools,6
+17031440900,Personal Service,9
+17031440900,Religious (except school or residence),10
+17031450300,Childcare and Schools,7
+17031450300,Dining,6
+17031450300,"Financial, Insurance, Real Estate, Legal, and Professional",7
+17031450300,Health Services,6
+17031450300,Industrial,1
+17031450300,Personal Service,15
+17031450300,Public Services,1
+17031450300,Religious (except school or residence),4
+17031450300,Retail,14
+17031450300,Service or Programmed Residential Space,2
+17031450300,Social Services & Political Advocacy,1
+17031450300,Trade Service,11
+17031450300,"Wholesale, Storage and Transportation",3
+17031460100,Childcare and Schools,3
+17031460100,Dining,4
+17031460100,F.I.R.E,3
+17031460100,Personal Service,1
+17031460100,Religious (except school or residence),5
+17031460100,Retail,3
+17031460100,Trade Service,1
+17031460200,Childcare and Schools,1
+17031460200,Dining,1
+17031460200,Fitness,1
+17031460200,Health Services,1
+17031460200,Industrial,1
+17031460200,Other,1
+17031460200,Religious (except school or residence),3
+17031460200,Retail,2
+17031460200,Trade Service,7
+17031460301,Arts and Entertainment,1
+17031460301,Childcare and Schools,1
+17031460301,Dining,2
+17031460301,Industrial,1
+17031460301,Personal Service,1
+17031460301,Religious (except school or residence),2
+17031460301,Retail,4
+17031460301,Service or Programmed Residential Space,2
+17031460301,Social Services & Political Advocacy,2
+17031460302,Childcare and Schools,2
+17031460302,F.I.R.E,2
+17031460302,Health Services,1
+17031460302,Personal Service,1
+17031460302,Religious (except school or residence),7
+17031460302,Retail,6
+17031460302,Service or Programmed Residential Space,1
+17031460302,Trade Service,3
+17031460400,Arts and Entertainment,1
+17031460400,Childcare and Schools,2
+17031460400,Dining,2
+17031460400,"Financial, Insurance, Real Estate, Legal, and Professional",1
+17031460400,Personal Service,2
+17031460400,Religious (except school or residence),2
+17031460400,Retail,5
+17031460400,Trade Service,1
+17031460500,Arts and Entertainment,3
+17031460500,Childcare and Schools,12
+17031460500,Dining,3
+17031460500,F.I.R.E,1
+17031460500,"Financial, Insurance, Real Estate, Legal, and Professional",2
+17031460500,Fitness,1
+17031460500,Health Services,10
+17031460500,Industrial,1
+17031460500,Non-residential religious,3
+17031460500,Personal Service,10
+17031460500,Religious (except school or residence),15
+17031460500,Retail,12
+17031460500,Service or Programmed Residential Space,1
+17031460500,Social Services & Political Advocacy,1
+17031460500,Trade Service,6
+17031460500,"Wholesale, Storage and Transportation",1
+17031460800,Childcare and Schools,4
+17031460800,Dining,3
+17031460800,"Financial, Insurance, Real Estate, Legal, and Professional",1
+17031460800,Other,1
+17031460800,Personal Service,2
+17031460800,Religious (except school or residence),4
+17031460800,Retail,4
+17031460800,Service or Programmed Residential Space,1
+17031460800,Social Services & Political Advocacy,1
+17031460800,Trade Service,3
+17031461000,Childcare and Schools,3
+17031461000,Dining,6
+17031461000,"Financial, Insurance, Real Estate, Legal, and Professional",16
+17031461000,Health Services,9
+17031461000,Industrial,2
+17031461000,Personal Service,2
+17031461000,Public Services,2
+17031461000,Religious (except school or residence),4
+17031461000,Retail,13
+17031461000,Service or Programmed Residential Space,5
+17031461000,Social Services & Political Advocacy,2
+17031461000,Trade Service,2
+17031470100,Retail,2
+17031480100,Dining,1
+17031480100,Fitness,1
+17031480100,Other,1
+17031480100,Personal Service,1
+17031480200,Dining,5
+17031480200,Health Services,3
+17031480200,Personal Service,1
+17031480200,Retail,2
+17031480300,Childcare and Schools,2
+17031480300,Retail,1
+17031480300,"Wholesale, Storage and Transportation",1
+17031480400,Childcare and Schools,4
+17031480400,Health Services,3
+17031480400,Personal Service,1
+17031480400,Religious (except school or residence),1
+17031480400,Retail,3
+17031480400,Trade Service,1
+17031480500,Cook County Land Bank,1
+17031480500,Public Services,1
+17031480500,Religious (except school or residence),1
+17031480500,Retail,1
+17031480500,Trade Service,1
+17031490200,Arts and Entertainment,1
+17031490200,Childcare and Schools,2
+17031490200,Dining,2
+17031490200,"Financial, Insurance, Real Estate, Legal, and Professional",6
+17031490200,Health Services,1
+17031490200,Personal Service,4
+17031490200,Retail,5
+17031490200,Trade Service,4
+17031490200,Unknown,1
+17031490500,Childcare and Schools,3
+17031490500,"Financial, Insurance, Real Estate, Legal, and Professional",2
+17031490500,Fitness,1
+17031490500,Personal Service,1
+17031490500,Religious (except school or residence),4
+17031490500,Social Services & Political Advocacy,1
+17031490500,Trade Service,1
+17031490500,"Wholesale, Storage and Transportation",1
+17031490600,Childcare and Schools,2
+17031490600,Dining,1
+17031490600,"Financial, Insurance, Real Estate, Legal, and Professional",2
+17031490600,Health Services,1
+17031490600,Personal Service,2
+17031490600,Religious (except school or residence),3
+17031490600,Retail,1
+17031490600,Trade Service,2
+17031490700,Childcare and Schools,2
+17031490700,Dining,1
+17031490700,"Financial, Insurance, Real Estate, Legal, and Professional",1
+17031490700,Fitness,1
+17031490700,Retail,2
+17031490800,Childcare and Schools,4
+17031490800,Cook County Land Bank,1
+17031490800,Dining,6
+17031490800,"Financial, Insurance, Real Estate, Legal, and Professional",3
+17031490800,Personal Service,4
+17031490800,Religious (except school or residence),5
+17031490800,Retail,8
+17031490800,Service or Programmed Residential Space,1
+17031490800,Social Services & Political Advocacy,2
+17031490800,Trade Service,6
+17031490800,"Wholesale, Storage and Transportation",1
+17031490901,Childcare and Schools,2
+17031490901,Cook County Land Bank,16
+17031490901,"Financial, Insurance, Real Estate, Legal, and Professional",2
+17031490901,Personal Service,2
+17031490901,Public Services,3
+17031490901,Religious (except school or residence),8
+17031490901,Retail,1
+17031490901,Service or Programmed Residential Space,2
+17031490901,Social Services & Political Advocacy,4
+17031490901,Trade Service,2
+17031490901,"Wholesale, Storage and Transportation",1
+17031490902,Arts and Entertainment,1
+17031490902,Childcare and Schools,4
+17031490902,Cook County Land Bank,1
+17031490902,Dining,2
+17031490902,"Financial, Insurance, Real Estate, Legal, and Professional",1
+17031490902,Fitness,2
+17031490902,Other,1
+17031490902,Personal Service,3
+17031490902,Religious (except school or residence),6
+17031490902,Retail,6
+17031490902,Service or Programmed Residential Space,2
+17031490902,Social Services & Political Advocacy,2
+17031490902,Trade Service,2
+17031491000,Childcare and Schools,3
+17031491000,Dining,2
+17031491000,"Financial, Insurance, Real Estate, Legal, and Professional",1
+17031491000,Health Services,2
+17031491000,Industrial,1
+17031491000,Personal Service,3
+17031491000,Public Services,3
+17031491000,Religious (except school or residence),6
+17031491000,Retail,2
+17031491000,Service or Programmed Residential Space,3
+17031491000,Social Services & Political Advocacy,3
+17031491000,Trade Service,4
+17031491000,"Wholesale, Storage and Transportation",1
+17031491100,Childcare and Schools,3
+17031491100,Cook County Land Bank,8
+17031491100,Dining,2
+17031491100,"Financial, Insurance, Real Estate, Legal, and Professional",5
+17031491100,Fitness,1
+17031491100,Health Services,1
+17031491100,Personal Service,3
+17031491100,Religious (except school or residence),10
+17031491100,Retail,8
+17031491100,Social Services & Political Advocacy,3
+17031491100,Trade Service,3
+17031491100,"Wholesale, Storage and Transportation",1
+17031491200,Childcare and Schools,4
+17031491200,Cook County Land Bank,5
+17031491200,Dining,1
+17031491200,"Financial, Insurance, Real Estate, Legal, and Professional",6
+17031491200,Health Services,3
+17031491200,Personal Service,5
+17031491200,Religious (except school or residence),3
+17031491200,Retail,1
+17031491200,Service or Programmed Residential Space,1
+17031491200,Social Services & Political Advocacy,1
+17031491200,Trade Service,7
+17031491200,"Wholesale, Storage and Transportation",1
+17031491300,Childcare and Schools,3
+17031491300,"Financial, Insurance, Real Estate, Legal, and Professional",1
+17031491300,Health Services,1
+17031491300,Personal Service,1
+17031491300,Public Services,1
+17031491300,Religious (except school or residence),5
+17031491300,Service or Programmed Residential Space,1
+17031491300,Trade Service,1
+17031491400,Arts and Entertainment,1
+17031491400,Childcare and Schools,6
+17031491400,Cook County Land Bank,8
+17031491400,Dining,6
+17031491400,"Financial, Insurance, Real Estate, Legal, and Professional",6
+17031491400,Health Services,6
+17031491400,Personal Service,7
+17031491400,Public Services,1
+17031491400,Religious (except school or residence),10
+17031491400,Retail,32
+17031491400,Social Services & Political Advocacy,2
+17031491400,Trade Service,4
+17031500100,Childcare and Schools,2
+17031500100,"Financial, Insurance, Real Estate, Legal, and Professional",2
+17031500100,Religious (except school or residence),1
+17031500100,Retail,1
+17031500100,"Wholesale, Storage and Transportation",1
+17031500200,Arts and Entertainment,1
+17031500200,Childcare and Schools,1
+17031500200,Dining,1
+17031500200,Fitness,1
+17031500200,Religious (except school or residence),1
+17031500200,Retail,1
+17031500200,Social Services & Political Advocacy,1
+17031500200,"Wholesale, Storage and Transportation",2
+17031500300,Childcare and Schools,1
+17031500300,"Financial, Insurance, Real Estate, Legal, and Professional",1
+17031500300,Personal Service,2
+17031500300,Religious (except school or residence),1
+17031500300,Retail,1
+17031500300,Trade Service,1
+17031510100,Dining,2
+17031510100,Trade Service,1
+17031510300,Dining,7
+17031510300,"Financial, Insurance, Real Estate, Legal, and Professional",6
+17031510300,Health Services,5
+17031510300,Personal Service,2
+17031510300,Public Services,2
+17031510300,Religious (except school or residence),1
+17031510300,Retail,12
+17031520100,Childcare and Schools,3
+17031520100,Dining,4
+17031520100,"Financial, Insurance, Real Estate, Legal, and Professional",2
+17031520100,Fitness,1
+17031520100,Public Services,2
+17031520100,Religious (except school or residence),1
+17031520100,Retail,3
+17031520100,Trade Service,9
+17031520100,"Wholesale, Storage and Transportation",1
+17031520200,Dining,1
+17031520200,"Financial, Insurance, Real Estate, Legal, and Professional",2
+17031520200,Personal Service,2
+17031520200,Religious (except school or residence),1
+17031520200,Service or Programmed Residential Space,1
+17031520200,Trade Service,5
+17031520200,"Wholesale, Storage and Transportation",2
+17031520300,Arts and Entertainment,3
+17031520300,Childcare and Schools,2
+17031520300,Dining,4
+17031520300,"Financial, Insurance, Real Estate, Legal, and Professional",9
+17031520300,Health Services,4
+17031520300,Personal Service,4
+17031520300,Public Services,2
+17031520300,Religious (except school or residence),2
+17031520300,Retail,7
+17031520300,Social Services & Political Advocacy,1
+17031520300,Trade Service,6
+17031520400,Arts and Entertainment,4
+17031520400,Dining,7
+17031520400,"Financial, Insurance, Real Estate, Legal, and Professional",12
+17031520400,Health Services,2
+17031520400,Personal Service,9
+17031520400,Public Services,2
+17031520400,Religious (except school or residence),1
+17031520400,Retail,6
+17031520400,Trade Service,3
+17031520500,Arts and Entertainment,1
+17031520500,Childcare and Schools,1
+17031520500,"Financial, Insurance, Real Estate, Legal, and Professional",1
+17031520500,Fitness,1
+17031520500,Personal Service,2
+17031520500,Trade Service,1
+17031520600,Childcare and Schools,3
+17031520600,Religious (except school or residence),1
+17031520600,Trade Service,1
+17031530100,Dining,1
+17031530100,"Financial, Insurance, Real Estate, Legal, and Professional",2
+17031530100,Religious (except school or residence),2
+17031530100,Retail,5
+17031530100,Trade Service,3
+17031530200,Arts and Entertainment,1
+17031530200,Religious (except school or residence),3
+17031530200,Retail,1
+17031530300,Industrial,2
+17031530300,Public Services,1
+17031530300,Social Services & Political Advocacy,1
+17031530400,Childcare and Schools,1
+17031530400,Retail,2
+17031530400,Social Services & Political Advocacy,1
+17031530501,Childcare and Schools,2
+17031530501,Personal Service,2
+17031530501,Religious (except school or residence),4
+17031530501,Trade Service,2
+17031530503,Childcare and Schools,1
+17031530503,Dining,2
+17031530503,Personal Service,1
+17031530503,Retail,1
+17031530503,Social Services & Political Advocacy,1
+17031530503,Trade Service,4
+17031530600,Retail,1
+17031540101,Childcare and Schools,6
+17031540101,Fitness,1
+17031540101,Personal Service,3
+17031540101,Public Services,1
+17031540101,Religious (except school or residence),1
+17031540101,Retail,1
+17031540101,Social Services & Political Advocacy,1
+17031540101,Trade Service,1
+17031540102,Arts and Entertainment,1
+17031540102,Childcare and Schools,2
+17031540102,Dining,1
+17031540102,Fitness,1
+17031540102,Health Services,1
+17031540102,Industrial,1
+17031540102,Other,1
+17031540102,Personal Service,1
+17031540102,Public Services,1
+17031540102,Trade Service,3
+17031540102,"Wholesale, Storage and Transportation",2
+17031550200,Personal Service,1
+17031570100,Dining,4
+17031570100,"Financial, Insurance, Real Estate, Legal, and Professional",3
+17031570100,Fitness,1
+17031570100,Health Services,3
+17031570100,Industrial,3
+17031570100,Personal Service,1
+17031570100,Retail,9
+17031570100,Trade Service,5
+17031570100,"Wholesale, Storage and Transportation",7
+17031570200,Arts and Entertainment,1
+17031570200,Childcare and Schools,1
+17031570200,Dining,10
+17031570200,"Financial, Insurance, Real Estate, Legal, and Professional",5
+17031570200,Health Services,4
+17031570200,Industrial,6
+17031570200,Other,1
+17031570200,Personal Service,2
+17031570200,Retail,21
+17031570200,Social Services & Political Advocacy,3
+17031570200,Trade Service,4
+17031570200,"Wholesale, Storage and Transportation",10
+17031570300,Arts and Entertainment,6
+17031570300,Childcare and Schools,7
+17031570300,Dining,21
+17031570300,"Financial, Insurance, Real Estate, Legal, and Professional",19
+17031570300,Fitness,2
+17031570300,Health Services,6
+17031570300,Industrial,2
+17031570300,Personal Service,14
+17031570300,Public Services,3
+17031570300,Religious (except school or residence),2
+17031570300,Retail,9
+17031570300,Social Services & Political Advocacy,2
+17031570300,Trade Service,10
+17031570400,Arts and Entertainment,1
+17031570400,Childcare and Schools,4
+17031570400,Dining,4
+17031570400,"Financial, Insurance, Real Estate, Legal, and Professional",7
+17031570400,Fitness,1
+17031570400,Health Services,2
+17031570400,Industrial,3
+17031570400,Personal Service,6
+17031570400,Religious (except school or residence),1
+17031570400,Retail,7
+17031570400,Service or Programmed Residential Space,2
+17031570400,Social Services & Political Advocacy,1
+17031570400,Trade Service,13
+17031570400,"Wholesale, Storage and Transportation",3
+17031570500,Arts and Entertainment,2
+17031570500,Childcare and Schools,1
+17031570500,Dining,8
+17031570500,"Financial, Insurance, Real Estate, Legal, and Professional",3
+17031570500,Health Services,5
+17031570500,Industrial,1
+17031570500,Personal Service,1
+17031570500,Religious (except school or residence),1
+17031570500,Retail,7
+17031570500,Trade Service,6
+17031580100,Arts and Entertainment,1
+17031580100,Childcare and Schools,4
+17031580100,Dining,7
+17031580100,"Financial, Insurance, Real Estate, Legal, and Professional",2
+17031580100,Fitness,1
+17031580100,Industrial,8
+17031580100,Personal Service,8
+17031580100,Public Services,2
+17031580100,Religious (except school or residence),3
+17031580100,Retail,11
+17031580100,Trade Service,6
+17031580100,"Wholesale, Storage and Transportation",4
+17031580200,Dining,5
+17031580200,Industrial,1
+17031580200,Retail,7
+17031580200,Trade Service,5
+17031580200,"Wholesale, Storage and Transportation",6
+17031580300,Childcare and Schools,1
+17031580300,Dining,1
+17031580300,Industrial,2
+17031580300,Personal Service,1
+17031580300,Retail,2
+17031580300,Trade Service,7
+17031580300,"Wholesale, Storage and Transportation",4
+17031580400,Arts and Entertainment,2
+17031580400,Childcare and Schools,4
+17031580400,Dining,14
+17031580400,"Financial, Insurance, Real Estate, Legal, and Professional",9
+17031580400,Health Services,4
+17031580400,Personal Service,11
+17031580400,Retail,16
+17031580400,Social Services & Political Advocacy,5
+17031580400,Trade Service,12
+17031580400,"Wholesale, Storage and Transportation",2
+17031580501,Arts and Entertainment,2
+17031580501,Childcare and Schools,6
+17031580501,Dining,15
+17031580501,"Financial, Insurance, Real Estate, Legal, and Professional",12
+17031580501,Fitness,2
+17031580501,Health Services,7
+17031580501,Personal Service,7
+17031580501,Public Services,1
+17031580501,Religious (except school or residence),5
+17031580501,Retail,19
+17031580501,Social Services & Political Advocacy,1
+17031580501,Trade Service,5
+17031580501,"Wholesale, Storage and Transportation",1
+17031580502,Childcare and Schools,9
+17031580502,Dining,23
+17031580502,"Financial, Insurance, Real Estate, Legal, and Professional",20
+17031580502,Fitness,1
+17031580502,Health Services,17
+17031580502,Personal Service,16
+17031580502,Public Services,2
+17031580502,Religious (except school or residence),4
+17031580502,Retail,33
+17031580502,Social Services & Political Advocacy,1
+17031580502,Trade Service,9
+17031580502,"Wholesale, Storage and Transportation",1
+17031580600,Childcare and Schools,2
+17031580600,Dining,12
+17031580600,"Financial, Insurance, Real Estate, Legal, and Professional",7
+17031580600,Fitness,1
+17031580600,Health Services,3
+17031580600,Personal Service,18
+17031580600,Religious (except school or residence),2
+17031580600,Retail,17
+17031580600,Trade Service,4
+17031580600,"Wholesale, Storage and Transportation",1
+17031580700,Dining,7
+17031580700,"Financial, Insurance, Real Estate, Legal, and Professional",1
+17031580700,Health Services,1
+17031580700,Personal Service,4
+17031580700,Religious (except school or residence),2
+17031580700,Retail,13
+17031580700,Trade Service,9
+17031580700,"Wholesale, Storage and Transportation",1
+17031580800,Arts and Entertainment,1
+17031580800,Dining,7
+17031580800,"Financial, Insurance, Real Estate, Legal, and Professional",2
+17031580800,Fitness,1
+17031580800,Health Services,2
+17031580800,Personal Service,1
+17031580800,Retail,7
+17031580800,Trade Service,6
+17031610300,Arts and Entertainment,4
+17031610300,Childcare and Schools,3
+17031610300,Dining,18
+17031610300,"Financial, Insurance, Real Estate, Legal, and Professional",6
+17031610300,Fitness,1
+17031610300,Health Services,5
+17031610300,Industrial,10
+17031610300,Personal Service,5
+17031610300,Public Services,3
+17031610300,Religious (except school or residence),1
+17031610300,Retail,33
+17031610300,Social Services & Political Advocacy,3
+17031610300,Trade Service,14
+17031610300,"Wholesale, Storage and Transportation",11
+17031610400,Arts and Entertainment,2
+17031610400,Childcare and Schools,1
+17031610400,Dining,5
+17031610400,"Financial, Insurance, Real Estate, Legal, and Professional",5
+17031610400,Health Services,1
+17031610400,Personal Service,4
+17031610400,Religious (except school or residence),2
+17031610400,Retail,21
+17031610400,Service or Programmed Residential Space,1
+17031610400,Social Services & Political Advocacy,1
+17031610400,Trade Service,5
+17031610800,Dining,1
+17031610800,Fitness,1
+17031610800,Industrial,1
+17031610800,Trade Service,1
+17031611200,Childcare and Schools,4
+17031611200,Dining,2
+17031611200,"Financial, Insurance, Real Estate, Legal, and Professional",5
+17031611200,Health Services,1
+17031611200,Industrial,1
+17031611200,Personal Service,11
+17031611200,Retail,30
+17031611200,Service or Programmed Residential Space,1
+17031611200,Social Services & Political Advocacy,1
+17031611200,Trade Service,8
+17031611200,"Wholesale, Storage and Transportation",1
+17031611300,Arts and Entertainment,1
+17031611300,Childcare and Schools,5
+17031611300,Dining,9
+17031611300,"Financial, Insurance, Real Estate, Legal, and Professional",6
+17031611300,Health Services,4
+17031611300,Personal Service,4
+17031611300,Religious (except school or residence),4
+17031611300,Retail,24
+17031611300,Social Services & Political Advocacy,3
+17031611300,Trade Service,3
+17031611400,Childcare and Schools,4
+17031611400,Dining,3
+17031611400,"Financial, Insurance, Real Estate, Legal, and Professional",3
+17031611400,Health Services,1
+17031611400,Personal Service,2
+17031611400,Religious (except school or residence),1
+17031611400,Retail,11
+17031611400,Social Services & Political Advocacy,2
+17031611400,Trade Service,1
+17031611500,Childcare and Schools,2
+17031611500,Dining,4
+17031611500,"Financial, Insurance, Real Estate, Legal, and Professional",1
+17031611500,Fitness,1
+17031611500,Health Services,1
+17031611500,Industrial,2
+17031611500,Personal Service,2
+17031611500,Public Services,1
+17031611500,Religious (except school or residence),1
+17031611500,Retail,6
+17031611500,Service or Programmed Residential Space,2
+17031611500,Social Services & Political Advocacy,1
+17031611500,Trade Service,4
+17031611600,Dining,2
+17031611600,Personal Service,1
+17031611600,Religious (except school or residence),2
+17031611600,Retail,1
+17031611600,Trade Service,2
+17031611700,Childcare and Schools,2
+17031611700,Dining,1
+17031611700,Other,1
+17031611700,Religious (except school or residence),4
+17031611700,Retail,5
+17031611700,Social Services & Political Advocacy,1
+17031611800,Childcare and Schools,2
+17031611800,Religious (except school or residence),5
+17031611800,Retail,5
+17031611800,Trade Service,4
+17031611900,Childcare and Schools,3
+17031611900,Cook County Land Bank,1
+17031611900,Health Services,2
+17031611900,Personal Service,3
+17031611900,Public Services,1
+17031611900,Religious (except school or residence),5
+17031611900,Retail,8
+17031611900,Social Services & Political Advocacy,3
+17031611900,Trade Service,2
+17031612000,Childcare and Schools,1
+17031612000,Religious (except school or residence),2
+17031612100,Childcare and Schools,1
+17031612100,Religious (except school or residence),2
+17031612100,Retail,2
+17031612100,Service or Programmed Residential Space,1
+17031612100,Social Services & Political Advocacy,1
+17031612200,Dining,3
+17031612200,"Financial, Insurance, Real Estate, Legal, and Professional",1
+17031612200,Industrial,1
+17031612200,Personal Service,1
+17031612200,Religious (except school or residence),1
+17031612200,Retail,3
+17031612200,Trade Service,2
+17031612200,"Wholesale, Storage and Transportation",5
+17031620300,Childcare and Schools,1
+17031620300,F.I.R.E,1
+17031620300,Trade Service,2
+17031620400,Dining,2
+17031620400,Industrial,1
+17031620400,Trade Service,1
+17031630300,Arts and Entertainment,2
+17031630300,Childcare and Schools,4
+17031630300,Dining,6
+17031630300,"Financial, Insurance, Real Estate, Legal, and Professional",7
+17031630300,Fitness,1
+17031630300,Health Services,5
+17031630300,Industrial,1
+17031630300,Personal Service,7
+17031630300,Public Services,1
+17031630300,Retail,10
+17031630300,Social Services & Political Advocacy,2
+17031630300,Trade Service,7
+17031630300,"Wholesale, Storage and Transportation",2
+17031630400,Childcare and Schools,1
+17031630400,Dining,9
+17031630400,"Financial, Insurance, Real Estate, Legal, and Professional",2
+17031630400,Fitness,1
+17031630400,Health Services,2
+17031630400,Personal Service,4
+17031630400,Religious (except school or residence),1
+17031630400,Retail,12
+17031630400,Trade Service,2
+17031630500,Arts and Entertainment,1
+17031630500,Childcare and Schools,5
+17031630500,Dining,3
+17031630500,"Financial, Insurance, Real Estate, Legal, and Professional",4
+17031630500,Personal Service,1
+17031630500,Religious (except school or residence),2
+17031630500,Retail,7
+17031630500,Service or Programmed Residential Space,1
+17031630500,Social Services & Political Advocacy,1
+17031630500,Trade Service,2
+17031630600,Childcare and Schools,2
+17031630600,Dining,2
+17031630600,"Financial, Insurance, Real Estate, Legal, and Professional",1
+17031630600,Health Services,1
+17031630600,Industrial,2
+17031630600,Personal Service,5
+17031630600,Public Services,3
+17031630600,Retail,5
+17031630600,Trade Service,7
+17031630600,"Wholesale, Storage and Transportation",3
+17031630800,Childcare and Schools,1
+17031630800,Dining,10
+17031630800,"Financial, Insurance, Real Estate, Legal, and Professional",6
+17031630800,Fitness,2
+17031630800,Health Services,3
+17031630800,Personal Service,6
+17031630800,Religious (except school or residence),1
+17031630800,Retail,9
+17031630800,Trade Service,8
+17031630800,"Wholesale, Storage and Transportation",1
+17031630900,Arts and Entertainment,1
+17031630900,Childcare and Schools,6
+17031630900,Dining,9
+17031630900,"Financial, Insurance, Real Estate, Legal, and Professional",5
+17031630900,Health Services,1
+17031630900,Industrial,1
+17031630900,Non-residential religious,2
+17031630900,Personal Service,4
+17031630900,Public Services,1
+17031630900,Religious (except school or residence),1
+17031630900,Retail,3
+17031640100,Personal Service,1
+17031650100,Arts and Entertainment,1
+17031650100,Childcare and Schools,5
+17031650100,Dining,7
+17031650100,F.I.R.E,3
+17031650100,Health Services,6
+17031650100,Personal Service,2
+17031650100,Public Services,1
+17031650100,Religious (except school or residence),1
+17031650100,Retail,9
+17031650100,Service or Programmed Residential Space,2
+17031650100,Social Services & Political Advocacy,1
+17031650100,Trade Service,8
+17031650100,"Wholesale, Storage and Transportation",1
+17031650200,Arts and Entertainment,3
+17031650200,Childcare and Schools,4
+17031650200,Dining,17
+17031650200,F.I.R.E,10
+17031650200,"Financial, Insurance, Real Estate, Legal, and Professional",1
+17031650200,Fitness,1
+17031650200,Health Services,13
+17031650200,Personal Service,14
+17031650200,Public Services,1
+17031650200,Religious (except school or residence),2
+17031650200,Retail,13
+17031650200,Social Services & Political Advocacy,2
+17031650200,Trade Service,8
+17031650200,"Wholesale, Storage and Transportation",1
+17031650301,Arts and Entertainment,3
+17031650301,Childcare and Schools,3
+17031650301,Dining,10
+17031650301,F.I.R.E,15
+17031650301,Fitness,1
+17031650301,Health Services,7
+17031650301,Industrial,1
+17031650301,Non-residential religious,2
+17031650301,Personal Service,10
+17031650301,Religious (except school or residence),2
+17031650301,Retail,15
+17031650301,Trade Service,10
+17031650302,Arts and Entertainment,1
+17031650302,Childcare and Schools,2
+17031650302,Dining,5
+17031650302,F.I.R.E,6
+17031650302,Health Services,5
+17031650302,Non-residential religious,1
+17031650302,Personal Service,3
+17031650302,Religious (except school or residence),1
+17031650302,Retail,12
+17031650302,Trade Service,2
+17031650400,Childcare and Schools,4
+17031650400,Dining,10
+17031650400,F.I.R.E,4
+17031650400,Fitness,1
+17031650400,Health Services,4
+17031650400,Industrial,1
+17031650400,Personal Service,3
+17031650400,Retail,5
+17031650400,Service or Programmed Residential Space,1
+17031650400,Trade Service,5
+17031650500,Arts and Entertainment,1
+17031650500,Childcare and Schools,1
+17031650500,Dining,6
+17031650500,F.I.R.E,7
+17031650500,Health Services,3
+17031650500,Industrial,5
+17031650500,Personal Service,3
+17031650500,Public Services,3
+17031650500,Retail,7
+17031650500,Service or Programmed Residential Space,3
+17031650500,Trade Service,5
+17031650500,"Wholesale, Storage and Transportation",2
+17031660301,Arts and Entertainment,1
+17031660301,Dining,1
+17031660302,Childcare and Schools,1
+17031660302,Dining,2
+17031660302,"Financial, Insurance, Real Estate, Legal, and Professional",2
+17031660302,Health Services,1
+17031660302,Personal Service,3
+17031660302,Public Services,1
+17031660302,Retail,5
+17031660302,Trade Service,3
+17031660400,Childcare and Schools,1
+17031660400,Dining,1
+17031660400,F.I.R.E,1
+17031660400,"Financial, Insurance, Real Estate, Legal, and Professional",3
+17031660400,Non-residential religious,5
+17031660400,Personal Service,3
+17031660400,Public Services,1
+17031660400,Religious (except school or residence),1
+17031660400,Retail,6
+17031660400,Trade Service,3
+17031660500,Childcare and Schools,1
+17031660500,Retail,1
+17031660500,Trade Service,2
+17031660600,F.I.R.E,1
+17031660600,Non-residential religious,1
+17031660600,Personal Service,1
+17031660600,Religious (except school or residence),1
+17031660600,Retail,1
+17031660600,Trade Service,1
+17031660700,Dining,1
+17031660700,Personal Service,1
+17031660700,Religious (except school or residence),1
+17031660700,Retail,2
+17031660700,Trade Service,1
+17031660800,Childcare and Schools,1
+17031660800,Health Services,1
+17031660800,Non-residential religious,2
+17031660800,Retail,1
+17031660800,Social Services & Political Advocacy,1
+17031660900,Childcare and Schools,3
+17031660900,Non-residential religious,2
+17031660900,Public Services,1
+17031660900,Retail,4
+17031660900,Trade Service,3
+17031661000,Dining,1
+17031661000,Retail,1
+17031661000,Trade Service,2
+17031661100,Personal Service,1
+17031661100,Trade Service,1
+17031670100,Childcare and Schools,2
+17031670100,"Financial, Insurance, Real Estate, Legal, and Professional",1
+17031670100,Personal Service,4
+17031670100,Religious (except school or residence),2
+17031670100,Retail,1
+17031670100,Social Services & Political Advocacy,1
+17031670100,Trade Service,1
+17031670200,"Financial, Insurance, Real Estate, Legal, and Professional",1
+17031670200,Personal Service,2
+17031670200,Religious (except school or residence),3
+17031670200,Retail,2
+17031670200,Trade Service,4
+17031670300,Childcare and Schools,1
+17031670300,Dining,5
+17031670300,Other,2
+17031670300,Personal Service,1
+17031670300,Public Services,1
+17031670300,Religious (except school or residence),5
+17031670300,Retail,3
+17031670300,Social Services & Political Advocacy,1
+17031670300,Trade Service,2
+17031670400,Childcare and Schools,1
+17031670400,Dining,1
+17031670400,Religious (except school or residence),3
+17031670400,Retail,1
+17031670400,Social Services & Political Advocacy,1
+17031670500,Personal Service,1
+17031670500,Religious (except school or residence),1
+17031670500,Retail,3
+17031670500,Social Services & Political Advocacy,1
+17031670500,"Wholesale, Storage and Transportation",1
+17031670600,Childcare and Schools,1
+17031670600,Religious (except school or residence),3
+17031670700,Childcare and Schools,1
+17031670700,Dining,1
+17031670700,"Financial, Insurance, Real Estate, Legal, and Professional",2
+17031670700,Health Services,1
+17031670700,Personal Service,3
+17031670700,Religious (except school or residence),3
+17031670700,Retail,9
+17031670700,Social Services & Political Advocacy,2
+17031670700,Trade Service,3
+17031670800,Childcare and Schools,2
+17031670800,Dining,2
+17031670800,"Financial, Insurance, Real Estate, Legal, and Professional",2
+17031670800,Health Services,1
+17031670800,Personal Service,4
+17031670800,Public Services,2
+17031670800,Religious (except school or residence),1
+17031670800,Retail,9
+17031670800,Service or Programmed Residential Space,1
+17031670800,Trade Service,1
+17031670800,"Wholesale, Storage and Transportation",1
+17031670900,Childcare and Schools,1
+17031670900,"Financial, Insurance, Real Estate, Legal, and Professional",1
+17031670900,Personal Service,1
+17031670900,Public Services,1
+17031670900,Religious (except school or residence),3
+17031670900,Retail,3
+17031670900,Trade Service,1
+17031671100,Childcare and Schools,3
+17031671100,Public Services,1
+17031671100,Religious (except school or residence),3
+17031671100,Trade Service,1
+17031671200,Dining,1
+17031671200,Personal Service,1
+17031671200,Public Services,2
+17031671200,Religious (except school or residence),3
+17031671200,Retail,2
+17031671200,Social Services & Political Advocacy,1
+17031671300,Childcare and Schools,1
+17031671300,Personal Service,1
+17031671300,Religious (except school or residence),2
+17031671300,Retail,1
+17031671300,Trade Service,3
+17031671400,Childcare and Schools,1
+17031671400,Dining,1
+17031671400,Personal Service,1
+17031671400,Retail,2
+17031671400,Social Services & Political Advocacy,1
+17031671500,Childcare and Schools,3
+17031671500,Dining,4
+17031671500,"Financial, Insurance, Real Estate, Legal, and Professional",2
+17031671500,Religious (except school or residence),4
+17031671500,Retail,12
+17031671500,Service or Programmed Residential Space,1
+17031671500,Trade Service,2
+17031671600,Dining,2
+17031671600,"Financial, Insurance, Real Estate, Legal, and Professional",1
+17031671600,Personal Service,3
+17031671600,Religious (except school or residence),11
+17031671600,Retail,5
+17031671600,Service or Programmed Residential Space,1
+17031671600,Social Services & Political Advocacy,1
+17031671600,Trade Service,3
+17031671800,Childcare and Schools,2
+17031671800,Fitness,1
+17031671800,Religious (except school or residence),3
+17031671800,Retail,2
+17031671800,Trade Service,1
+17031671900,Religious (except school or residence),5
+17031671900,Retail,4
+17031671900,Trade Service,1
+17031671900,"Wholesale, Storage and Transportation",1
+17031672000,Childcare and Schools,5
+17031672000,Industrial,2
+17031672000,Personal Service,3
+17031672000,Religious (except school or residence),3
+17031672000,Retail,4
+17031672000,Social Services & Political Advocacy,1
+17031672000,Trade Service,1
+17031680500,Fitness,1
+17031680500,Religious (except school or residence),5
+17031680500,Retail,1
+17031680500,Trade Service,2
+17031680600,Personal Service,1
+17031680600,Religious (except school or residence),5
+17031680600,Retail,5
+17031680600,Trade Service,2
+17031680900,Childcare and Schools,8
+17031680900,Dining,4
+17031680900,Health Services,2
+17031680900,Personal Service,1
+17031680900,Public Services,1
+17031680900,Religious (except school or residence),9
+17031680900,Retail,11
+17031680900,Service or Programmed Residential Space,3
+17031680900,Social Services & Political Advocacy,2
+17031680900,Trade Service,2
+17031681000,Childcare and Schools,3
+17031681000,Dining,1
+17031681000,"Financial, Insurance, Real Estate, Legal, and Professional",2
+17031681000,Health Services,6
+17031681000,Personal Service,9
+17031681000,Religious (except school or residence),3
+17031681000,Retail,6
+17031681000,Service or Programmed Residential Space,2
+17031681000,Social Services & Political Advocacy,2
+17031681100,Arts and Entertainment,1
+17031681100,Childcare and Schools,2
+17031681100,Dining,2
+17031681100,Health Services,1
+17031681100,Personal Service,2
+17031681100,Religious (except school or residence),14
+17031681100,Retail,1
+17031681100,Social Services & Political Advocacy,2
+17031681100,Trade Service,2
+17031681200,Childcare and Schools,4
+17031681200,Dining,6
+17031681200,"Financial, Insurance, Real Estate, Legal, and Professional",1
+17031681200,Health Services,2
+17031681200,Other,1
+17031681200,Personal Service,1
+17031681200,Religious (except school or residence),8
+17031681200,Retail,11
+17031681200,Service or Programmed Residential Space,1
+17031681200,Social Services & Political Advocacy,1
+17031681200,Trade Service,1
+17031681300,Childcare and Schools,1
+17031681300,Fitness,1
+17031681300,Public Services,1
+17031681300,Religious (except school or residence),3
+17031681300,Retail,2
+17031681300,Trade Service,1
+17031681400,Childcare and Schools,3
+17031681400,Dining,1
+17031681400,Religious (except school or residence),9
+17031681400,Retail,5
+17031681400,Trade Service,3
+17031681400,"Wholesale, Storage and Transportation",1
+17031690300,F.I.R.E,1
+17031690300,Health Services,1
+17031690300,Personal Service,2
+17031690300,Religious (except school or residence),2
+17031690300,Service or Programmed Residential Space,1
+17031690300,Social Services & Political Advocacy,2
+17031690300,Trade Service,1
+17031690400,Childcare and Schools,3
+17031690400,Dining,1
+17031690400,F.I.R.E,1
+17031690400,Health Services,1
+17031690400,Personal Service,2
+17031690400,Religious (except school or residence),6
+17031690400,Retail,3
+17031690400,Social Services & Political Advocacy,1
+17031690400,Trade Service,5
+17031690400,"Wholesale, Storage and Transportation",3
+17031690500,Childcare and Schools,2
+17031690500,Dining,1
+17031690500,Health Services,2
+17031690500,Personal Service,3
+17031690500,Religious (except school or residence),2
+17031690500,Retail,1
+17031690500,Trade Service,4
+17031690500,"Wholesale, Storage and Transportation",1
+17031690900,Arts and Entertainment,4
+17031690900,Childcare and Schools,6
+17031690900,Dining,8
+17031690900,F.I.R.E,5
+17031690900,Health Services,3
+17031690900,Non-residential religious,4
+17031690900,Other,1
+17031690900,Personal Service,13
+17031690900,Religious (except school or residence),6
+17031690900,Retail,9
+17031690900,Trade Service,9
+17031691000,Childcare and Schools,7
+17031691000,Dining,13
+17031691000,F.I.R.E,6
+17031691000,Fitness,2
+17031691000,Health Services,1
+17031691000,Non-residential religious,3
+17031691000,Other,1
+17031691000,Personal Service,4
+17031691000,Religious (except school or residence),6
+17031691000,Retail,19
+17031691000,Social Services & Political Advocacy,3
+17031691000,Trade Service,4
+17031691000,"Wholesale, Storage and Transportation",2
+17031691100,Childcare and Schools,1
+17031691100,Dining,4
+17031691100,F.I.R.E,3
+17031691100,Health Services,2
+17031691100,Personal Service,4
+17031691100,Religious (except school or residence),1
+17031691100,Retail,8
+17031691100,Service or Programmed Residential Space,1
+17031691100,Social Services & Political Advocacy,2
+17031691100,Trade Service,2
+17031691200,Childcare and Schools,2
+17031691200,Dining,3
+17031691200,F.I.R.E,4
+17031691200,Fitness,1
+17031691200,Health Services,2
+17031691200,Personal Service,6
+17031691200,Religious (except school or residence),4
+17031691200,Retail,9
+17031691200,Social Services & Political Advocacy,9
+17031691200,Trade Service,7
+17031691200,"Wholesale, Storage and Transportation",2
+17031691300,Arts and Entertainment,1
+17031691300,Childcare and Schools,3
+17031691300,Dining,7
+17031691300,F.I.R.E,5
+17031691300,"Financial, Insurance, Real Estate, Legal, and Professional",1
+17031691300,Fitness,1
+17031691300,Health Services,6
+17031691300,Non-residential religious,2
+17031691300,Other,1
+17031691300,Personal Service,4
+17031691300,Religious (except school or residence),3
+17031691300,Retail,17
+17031691300,Trade Service,8
+17031691400,Arts and Entertainment,4
+17031691400,Childcare and Schools,4
+17031691400,Dining,11
+17031691400,F.I.R.E,5
+17031691400,"Financial, Insurance, Real Estate, Legal, and Professional",4
+17031691400,Health Services,1
+17031691400,Non-residential religious,5
+17031691400,Other,2
+17031691400,Personal Service,27
+17031691400,Public Services,2
+17031691400,Religious (except school or residence),5
+17031691400,Retail,27
+17031691400,Social Services & Political Advocacy,2
+17031691400,Trade Service,8
+17031691500,Arts and Entertainment,4
+17031691500,Childcare and Schools,11
+17031691500,Dining,10
+17031691500,F.I.R.E,6
+17031691500,"Financial, Insurance, Real Estate, Legal, and Professional",4
+17031691500,Fitness,1
+17031691500,Health Services,4
+17031691500,Industrial,3
+17031691500,Non-residential religious,4
+17031691500,Personal Service,9
+17031691500,Public services,1
+17031691500,Religious (except school or residence),6
+17031691500,Retail,19
+17031691500,Service or Programmed Residential Space,4
+17031691500,Trade Service,6
+17031691500,"Wholesale, Storage and Transportation",1
+17031700200,"Wholesale, Storage and Transportation",1
+17031700402,Retail,1
+17031710100,Childcare and Schools,1
+17031710100,Dining,1
+17031710100,Health Services,2
+17031710100,Personal Service,3
+17031710100,Public Services,1
+17031710100,Religious (except school or residence),2
+17031710100,Retail,5
+17031710100,Service or Programmed Residential Space,1
+17031710100,Social Services & Political Advocacy,1
+17031710100,Trade Service,1
+17031710200,Arts and Entertainment,1
+17031710200,Childcare and Schools,3
+17031710200,Dining,3
+17031710200,Personal Service,2
+17031710200,Public Services,1
+17031710200,Religious (except school or residence),5
+17031710200,Retail,4
+17031710200,Social Services & Political Advocacy,1
+17031710200,Trade Service,1
+17031710300,Arts and Entertainment,1
+17031710300,Childcare and Schools,1
+17031710300,Dining,1
+17031710300,Industrial,1
+17031710300,Personal Service,1
+17031710300,Religious (except school or residence),4
+17031710300,Retail,2
+17031710300,Service or Programmed Residential Space,1
+17031710300,Social Services & Political Advocacy,2
+17031710300,"Wholesale, Storage and Transportation",1
+17031710400,Childcare and Schools,6
+17031710400,Dining,6
+17031710400,Personal Service,11
+17031710400,Religious (except school or residence),7
+17031710400,Retail,10
+17031710400,Trade Service,6
+17031710500,Childcare and Schools,8
+17031710500,Dining,8
+17031710500,"Financial, Insurance, Real Estate, Legal, and Professional",5
+17031710500,Fitness,1
+17031710500,Health Services,1
+17031710500,Personal Service,9
+17031710500,Religious (except school or residence),6
+17031710500,Retail,14
+17031710500,Service or Programmed Residential Space,2
+17031710500,Trade Service,1
+17031710500,"Wholesale, Storage and Transportation",3
+17031710600,Childcare and Schools,3
+17031710600,"Financial, Insurance, Real Estate, Legal, and Professional",2
+17031710600,Personal Service,3
+17031710600,Religious (except school or residence),2
+17031710600,Retail,4
+17031710700,Childcare and Schools,3
+17031710700,Dining,5
+17031710700,Health Services,1
+17031710700,Other,1
+17031710700,Personal Service,6
+17031710700,Religious (except school or residence),8
+17031710700,Retail,7
+17031710700,Service or Programmed Residential Space,3
+17031710700,Trade Service,4
+17031710800,Arts and Entertainment,1
+17031710800,Childcare and Schools,9
+17031710800,Dining,9
+17031710800,"Financial, Insurance, Real Estate, Legal, and Professional",1
+17031710800,Health Services,1
+17031710800,Personal Service,4
+17031710800,Public Services,2
+17031710800,Religious (except school or residence),6
+17031710800,Retail,9
+17031710800,Service or Programmed Residential Space,3
+17031710800,Social Services & Political Advocacy,10
+17031710800,Trade Service,6
+17031710900,Childcare and Schools,2
+17031710900,Dining,3
+17031710900,Industrial,1
+17031710900,Other,1
+17031710900,Personal Service,3
+17031710900,Public Services,1
+17031710900,Religious (except school or residence),3
+17031710900,Retail,12
+17031710900,Service or Programmed Residential Space,2
+17031710900,Social Services & Political Advocacy,3
+17031710900,Trade Service,8
+17031710900,"Wholesale, Storage and Transportation",1
+17031711000,Arts and Entertainment,2
+17031711000,Childcare and Schools,3
+17031711000,Dining,3
+17031711000,"Financial, Insurance, Real Estate, Legal, and Professional",2
+17031711000,Health Services,1
+17031711000,Personal Service,4
+17031711000,Religious (except school or residence),16
+17031711000,Retail,4
+17031711000,Social Services & Political Advocacy,2
+17031711000,Trade Service,2
+17031711000,"Wholesale, Storage and Transportation",1
+17031711100,Childcare and Schools,4
+17031711100,Dining,3
+17031711100,"Financial, Insurance, Real Estate, Legal, and Professional",2
+17031711100,Fitness,1
+17031711100,Personal Service,7
+17031711100,Public Services,1
+17031711100,Religious (except school or residence),12
+17031711100,Retail,11
+17031711100,Trade Service,3
+17031711200,Childcare and Schools,8
+17031711200,Dining,3
+17031711200,"Financial, Insurance, Real Estate, Legal, and Professional",2
+17031711200,Fitness,1
+17031711200,Health Services,3
+17031711200,Personal Service,10
+17031711200,Religious (except school or residence),7
+17031711200,Retail,4
+17031711200,Service or Programmed Residential Space,1
+17031711200,Social Services & Political Advocacy,1
+17031711200,Trade Service,3
+17031711200,"Wholesale, Storage and Transportation",1
+17031711300,Arts and Entertainment,1
+17031711300,Childcare and Schools,3
+17031711300,Dining,2
+17031711300,"Financial, Insurance, Real Estate, Legal, and Professional",2
+17031711300,Health Services,1
+17031711300,Personal Service,4
+17031711300,Religious (except school or residence),3
+17031711300,Retail,2
+17031711300,Service or Programmed Residential Space,1
+17031711300,Social Services & Political Advocacy,1
+17031711400,Arts and Entertainment,1
+17031711400,Childcare and Schools,3
+17031711400,Dining,2
+17031711400,"Financial, Insurance, Real Estate, Legal, and Professional",4
+17031711400,Industrial,1
+17031711400,Personal Service,7
+17031711400,Public Services,1
+17031711400,Religious (except school or residence),6
+17031711400,Retail,13
+17031711400,Service or Programmed Residential Space,1
+17031711400,Social Services & Political Advocacy,1
+17031711400,Trade Service,7
+17031711400,"Wholesale, Storage and Transportation",4
+17031711500,Childcare and Schools,4
+17031711500,Religious (except school or residence),3
+17031711500,Trade Service,1
+17031750100,Arts and Entertainment,2
+17031750100,Childcare and Schools,2
+17031750100,Cook County Land Bank,3
+17031750100,Dining,3
+17031750100,"Financial, Insurance, Real Estate, Legal, and Professional",2
+17031750100,Health Services,1
+17031750100,Personal Service,2
+17031750100,Religious (except school or residence),6
+17031750100,Retail,1
+17031750100,Social Services & Political Advocacy,2
+17031750100,Trade Service,6
+17031750200,Childcare and Schools,5
+17031750200,Dining,3
+17031750200,"Financial, Insurance, Real Estate, Legal, and Professional",4
+17031750200,Fitness,2
+17031750200,Health Services,3
+17031750200,Personal Service,6
+17031750200,Public Services,1
+17031750200,Religious (except school or residence),3
+17031750200,Retail,3
+17031750200,Service or Programmed Residential Space,1
+17031750200,Social Services & Political Advocacy,3
+17031750200,Trade Service,4
+17031750300,Childcare and Schools,1
+17031750300,Dining,5
+17031750300,"Financial, Insurance, Real Estate, Legal, and Professional",6
+17031750300,Fitness,1
+17031750300,Health Services,3
+17031750300,Personal Service,4
+17031750300,Retail,4
+17031750300,Trade Service,2
+17031750400,Arts and Entertainment,2
+17031750400,Dining,4
+17031750400,"Financial, Insurance, Real Estate, Legal, and Professional",7
+17031750400,Fitness,1
+17031750400,Health Services,9
+17031750400,Personal Service,5
+17031750400,Retail,4
+17031750400,Social Services & Political Advocacy,3
+17031750400,Trade Service,1
+17031750500,Arts and Entertainment,2
+17031750500,Childcare and Schools,2
+17031750500,Dining,7
+17031750500,"Financial, Insurance, Real Estate, Legal, and Professional",5
+17031750500,Fitness,1
+17031750500,Health Services,1
+17031750500,Personal Service,9
+17031750500,Public Services,1
+17031750500,Religious (except school or residence),3
+17031750500,Retail,8
+17031750500,Service or Programmed Residential Space,2
+17031750500,Trade Service,8
+17031750500,Unknown,1
+17031750600,Childcare and Schools,5
+17031750600,Cook County Land Bank,1
+17031750600,Dining,4
+17031750600,Other,1
+17031750600,Personal Service,1
+17031750600,Religious (except school or residence),4
+17031750600,Retail,4
+17031750600,Service or Programmed Residential Space,1
+17031750600,Social Services & Political Advocacy,3
+17031750600,Trade Service,3
+17031750600,Unknown,1
+17031750600,"Wholesale, Storage and Transportation",4
+17031810900,Childcare and Schools,1
+17031810900,Dining,2
+17031810900,"Financial, Insurance, Real Estate, Legal, and Professional",1
+17031810900,Health Services,2
+17031810900,Retail,5
+17031810900,Trade Service,1
+17031812100,Retail,1
+17031813400,Dining,1
+17031813400,"Financial, Insurance, Real Estate, Legal, and Professional",1
+17031813400,Health Services,1
+17031813400,Retail,3
+17031813400,Social Services & Political Advocacy,1
+17031816500,Retail,1
+17031820800,"Wholesale, Storage and Transportation",1
+17031821102,Personal Service,1
+17031830500,Arts and Entertainment,1
+17031830500,Dining,1
+17031830500,"Financial, Insurance, Real Estate, Legal, and Professional",1
+17031830500,Fitness,1
+17031830500,Health Services,1
+17031830500,Personal Service,1
+17031830500,Religious (except school or residence),1
+17031830500,Retail,3
+17031830500,Trade Service,2
+17031831300,Dining,1
+17031831300,"Financial, Insurance, Real Estate, Legal, and Professional",1
+17031831300,Health Services,1
+17031831300,Personal Service,4
+17031831300,Retail,12
+17031831300,Trade Service,6
+17031831400,Arts and Entertainment,1
+17031831400,Childcare and Schools,5
+17031831400,Dining,8
+17031831400,"Financial, Insurance, Real Estate, Legal, and Professional",3
+17031831400,Health Services,4
+17031831400,Industrial,12
+17031831400,Personal Service,4
+17031831400,Public Services,1
+17031831400,Religious (except school or residence),3
+17031831400,Retail,24
+17031831400,Service or Programmed Residential Space,1
+17031831400,Social Services & Political Advocacy,2
+17031831400,Trade Service,21
+17031831400,"Wholesale, Storage and Transportation",9
+17031831500,Dining,1
+17031831500,Fitness,1
+17031831500,Health Services,3
+17031831500,Personal Service,1
+17031831500,Religious (except school or residence),2
+17031831500,Retail,6
+17031831500,Trade Service,1
+17031831600,Dining,1
+17031831600,Health Services,1
+17031831600,Industrial,1
+17031831600,Retail,1
+17031831600,"Wholesale, Storage and Transportation",2
+17031832600,Dining,1
+17031832600,Trade Service,1
+17031832900,Arts and Entertainment,1
+17031832900,Childcare and Schools,5
+17031832900,"Financial, Insurance, Real Estate, Legal, and Professional",3
+17031832900,Fitness,1
+17031832900,Religious (except school or residence),3
+17031832900,Service or Programmed Residential Space,1
+17031832900,Social Services & Political Advocacy,2
+17031832900,Trade Service,3
+17031833000,Arts and Entertainment,1
+17031833000,Childcare and Schools,3
+17031833000,Dining,18
+17031833000,"Financial, Insurance, Real Estate, Legal, and Professional",4
+17031833000,Fitness,3
+17031833000,Health Services,6
+17031833000,Other,1
+17031833000,Personal Service,2
+17031833000,Retail,9
+17031833000,Service or Programmed Residential Space,1
+17031833000,Social Services & Political Advocacy,2
+17031833000,Trade Service,2
+17031833100,Arts and Entertainment,1
+17031833100,Childcare and Schools,3
+17031833100,Dining,26
+17031833100,"Financial, Insurance, Real Estate, Legal, and Professional",8
+17031833100,Fitness,6
+17031833100,Health Services,6
+17031833100,Industrial,1
+17031833100,Personal Service,7
+17031833100,Public Services,3
+17031833100,Religious (except school or residence),2
+17031833100,Retail,15
+17031833100,Service or Programmed Residential Space,1
+17031833100,Social Services & Political Advocacy,3
+17031833100,Trade Service,3
+17031833100,"Wholesale, Storage and Transportation",1
+17031833300,Arts and Entertainment,1
+17031833300,Childcare and Schools,6
+17031833300,Dining,30
+17031833300,"Financial, Insurance, Real Estate, Legal, and Professional",4
+17031833300,Health Services,2
+17031833300,Personal Service,8
+17031833300,Religious (except school or residence),3
+17031833300,Retail,7
+17031833300,Service or Programmed Residential Space,1
+17031833300,Trade Service,1
+17031833900,Arts and Entertainment,1
+17031833900,Childcare and Schools,6
+17031833900,Dining,3
+17031833900,"Financial, Insurance, Real Estate, Legal, and Professional",6
+17031833900,Fitness,1
+17031833900,Health Services,5
+17031833900,Other,1
+17031833900,Personal Service,4
+17031833900,Public Services,1
+17031833900,Religious (except school or residence),8
+17031833900,Retail,10
+17031833900,Social Services & Political Advocacy,3
+17031833900,Trade Service,1
+17031834000,Childcare and Schools,2
+17031834000,Dining,1
+17031834000,"Financial, Insurance, Real Estate, Legal, and Professional",1
+17031834000,Health Services,1
+17031834000,Personal Service,1
+17031834000,Religious (except school or residence),3
+17031834000,Retail,3
+17031834000,Social Services & Political Advocacy,1
+17031834000,"Wholesale, Storage and Transportation",2
+17031834200,Arts and Entertainment,1
+17031834200,Childcare and Schools,4
+17031834200,Dining,5
+17031834200,F.I.R.E,8
+17031834200,Health Services,13
+17031834200,Industrial,2
+17031834200,Non-residential religious,3
+17031834200,Personal Service,10
+17031834200,Religious (except school or residence),2
+17031834200,Retail,21
+17031834200,Trade Service,6
+17031834300,Arts and Entertainment,1
+17031834300,Childcare and Schools,8
+17031834300,Dining,6
+17031834300,"Financial, Insurance, Real Estate, Legal, and Professional",6
+17031834300,Health Services,9
+17031834300,Industrial,1
+17031834300,Non-residential religious,1
+17031834300,Personal Service,8
+17031834300,Public Services,1
+17031834300,Religious (except school or residence),3
+17031834300,Retail,10
+17031834300,Social Services & Political Advocacy,1
+17031834300,Trade Service,9
+17031834400,Childcare and Schools,4
+17031834400,Dining,2
+17031834400,"Financial, Insurance, Real Estate, Legal, and Professional",1
+17031834400,Health Services,1
+17031834400,Other,1
+17031834400,Public Services,1
+17031834400,Religious (except school or residence),4
+17031834400,Retail,2
+17031834400,Service or Programmed Residential Space,1
+17031834400,"Wholesale, Storage and Transportation",1
+17031834500,Dining,3
+17031834500,"Financial, Insurance, Real Estate, Legal, and Professional",1
+17031834500,Industrial,2
+17031834500,Personal Service,1
+17031834500,Public Services,1
+17031834500,Religious (except school or residence),4
+17031834500,Retail,2
+17031834500,Trade Service,3
+17031834600,Childcare and Schools,4
+17031834600,Dining,1
+17031834600,Fitness,1
+17031834600,Health Services,1
+17031834600,Other,1
+17031834600,Public Services,1
+17031834600,Religious (except school or residence),6
+17031834600,Retail,1
+17031834600,Service or Programmed Residential Space,1
+17031834600,Social Services & Political Advocacy,1
+17031834600,Trade Service,1
+17031834700,Childcare and Schools,3
+17031834700,Religious (except school or residence),6
+17031834700,Retail,4
+17031834700,Social Services & Political Advocacy,2
+17031834700,Trade Service,2
+17031834800,Childcare and Schools,1
+17031834800,Health Services,2
+17031834800,Religious (except school or residence),2
+17031834800,Retail,1
+17031834800,Service or Programmed Residential Space,2
+17031834800,Social Services & Political Advocacy,2
+17031834900,Childcare and Schools,3
+17031834900,Fitness,1
+17031834900,Personal Service,1
+17031834900,Religious (except school or residence),4
+17031834900,Retail,1
+17031834900,Service or Programmed Residential Space,2
+17031835000,Childcare and Schools,1
+17031835000,Dining,2
+17031835000,F.I.R.E,1
+17031835000,Trade Service,1
+17031835100,Childcare and Schools,7
+17031835100,Dining,6
+17031835100,"Financial, Insurance, Real Estate, Legal, and Professional",1
+17031835100,Health Services,1
+17031835100,Industrial,4
+17031835100,Other,1
+17031835100,Personal Service,3
+17031835100,Religious (except school or residence),1
+17031835100,Retail,18
+17031835100,Trade Service,21
+17031835100,"Wholesale, Storage and Transportation",1
+17031835200,Dining,1
+17031835500,Childcare and Schools,1
+17031835500,Dining,3
+17031835500,Fitness,1
+17031835500,Industrial,4
+17031835500,Public Services,1
+17031835500,Religious (except school or residence),3
+17031835500,Retail,8
+17031835500,Service or Programmed Residential Space,1
+17031835500,Trade Service,2
+17031835500,"Wholesale, Storage and Transportation",2
+17031835600,Childcare and Schools,2
+17031835600,Dining,3
+17031835600,"Financial, Insurance, Real Estate, Legal, and Professional",5
+17031835600,Health Services,3
+17031835600,Personal Service,3
+17031835600,Public Services,3
+17031835600,Religious (except school or residence),1
+17031835600,Retail,13
+17031835600,Service or Programmed Residential Space,1
+17031835600,Trade Service,2
+17031835600,"Wholesale, Storage and Transportation",1
+17031835800,Arts and Entertainment,1
+17031835800,Dining,4
+17031835800,Personal Service,2
+17031835800,Religious (except school or residence),5
+17031835800,Retail,3
+17031836000,Arts and Entertainment,1
+17031836000,Childcare and Schools,5
+17031836000,Dining,1
+17031836000,"Financial, Insurance, Real Estate, Legal, and Professional",3
+17031836000,Fitness,2
+17031836000,Health Services,2
+17031836000,Personal Service,6
+17031836000,Public Services,2
+17031836000,Religious (except school or residence),7
+17031836000,Retail,4
+17031836000,Social Services & Political Advocacy,4
+17031836000,Trade Service,1
+17031836100,Childcare and Schools,7
+17031836100,Dining,4
+17031836100,"Financial, Insurance, Real Estate, Legal, and Professional",1
+17031836100,Other,4
+17031836100,Public Services,2
+17031836100,Religious (except school or residence),7
+17031836100,Retail,3
+17031836100,Service or Programmed Residential Space,1
+17031836100,Trade Service,1
+17031836200,Arts and Entertainment,12
+17031836200,Childcare and Schools,58
+17031836200,Dining,17
+17031836200,"Financial, Insurance, Real Estate, Legal, and Professional",3
+17031836200,Fitness,2
+17031836200,Health Services,12
+17031836200,Other,1
+17031836200,Public Services,5
+17031836200,Religious (except school or residence),10
+17031836200,Retail,2
+17031836200,Service or Programmed Residential Space,4
+17031836200,Social Services & Political Advocacy,6
+17031836200,Trade Service,1
+17031836200,"Wholesale, Storage and Transportation",4
+17031836300,Retail,1
+17031836300,Trade Service,1
+17031836300,"Wholesale, Storage and Transportation",1
+17031836400,Childcare and Schools,1
+17031836400,"Financial, Insurance, Real Estate, Legal, and Professional",2
+17031836400,Health Services,1
+17031836400,Personal Service,1
+17031836400,Religious (except school or residence),3
+17031836400,Service or Programmed Residential Space,2
+17031836400,Social Services & Political Advocacy,1
+17031836500,Childcare and Schools,2
+17031836500,Dining,1
+17031836500,Religious (except school or residence),2
+17031836600,Dining,5
+17031836600,"Financial, Insurance, Real Estate, Legal, and Professional",1
+17031836600,Health Services,1
+17031836600,Industrial,3
+17031836600,Religious (except school or residence),1
+17031836600,Retail,8
+17031836600,Social Services & Political Advocacy,2
+17031836600,Trade Service,15
+17031836600,"Wholesale, Storage and Transportation",1
+17031836700,Dining,3
+17031836700,Religious (except school or residence),1
+17031836700,Retail,2
+17031836700,Trade Service,3
+17031836700,"Wholesale, Storage and Transportation",2
+17031837300,Childcare and Schools,1
+17031837300,"Financial, Insurance, Real Estate, Legal, and Professional",1
+17031837300,Public Services,1
+17031837300,Retail,1
+17031837400,Trade Service,2
+17031837800,Arts and Entertainment,3
+17031837800,Childcare and Schools,5
+17031837800,Dining,3
+17031837800,"Financial, Insurance, Real Estate, Legal, and Professional",10
+17031837800,Health Services,6
+17031837800,Industrial,7
+17031837800,Personal Service,3
+17031837800,Public Services,2
+17031837800,Religious (except school or residence),6
+17031837800,Retail,20
+17031837800,Social Services & Political Advocacy,5
+17031837800,Trade Service,30
+17031837800,"Wholesale, Storage and Transportation",10
+17031838000,Childcare and Schools,7
+17031838000,"Financial, Insurance, Real Estate, Legal, and Professional",5
+17031838000,Health Services,4
+17031838000,Other,2
+17031838000,Public Services,1
+17031838000,Religious (except school or residence),1
+17031838000,Social Services & Political Advocacy,2
+17031838000,Trade Service,1
+17031838100,Arts and Entertainment,2
+17031838100,Childcare and Schools,2
+17031838100,Dining,5
+17031838100,Fitness,2
+17031838100,Health Services,4
+17031838100,Other,1
+17031838100,Religious (except school or residence),5
+17031838100,Retail,2
+17031838100,Service or Programmed Residential Space,1
+17031838100,Social Services & Political Advocacy,4
+17031838100,Trade Service,1
+17031838100,Unknown,1
+17031838100,"Wholesale, Storage and Transportation",1
+17031838200,Arts and Entertainment,1
+17031838200,Childcare and Schools,16
+17031838200,Dining,9
+17031838200,"Financial, Insurance, Real Estate, Legal, and Professional",3
+17031838200,Health Services,24
+17031838200,Industrial,2
+17031838200,Other,1
+17031838200,Public Services,6
+17031838200,Religious (except school or residence),1
+17031838200,Retail,2
+17031838200,Social Services & Political Advocacy,4
+17031838200,Trade Service,2
+17031838200,"Wholesale, Storage and Transportation",4
+17031838600,Childcare and Schools,2
+17031838600,Dining,1
+17031838600,F.I.R.E,1
+17031838600,Personal Service,1
+17031838600,Religious (except school or residence),2
+17031838600,Retail,3
+17031838600,Service or Programmed Residential Space,1
+17031838600,Social Services & Political Advocacy,1
+17031838600,Trade Service,3
+17031838600,"Wholesale, Storage and Transportation",2
+17031838700,Childcare and Schools,2
+17031838700,Dining,5
+17031838700,F.I.R.E,4
+17031838700,Health Services,2
+17031838700,Non-residential religious,3
+17031838700,Other,2
+17031838700,Personal Service,4
+17031838700,Religious (except school or residence),13
+17031838700,Retail,14
+17031838700,Service or Programmed Residential Space,1
+17031838700,Social Services & Political Advocacy,2
+17031838700,Trade Service,4
+17031838800,Industrial,3
+17031838800,Public Services,1
+17031838800,Social Services & Political Advocacy,1
+17031839200,Arts and Entertainment,3
+17031839200,Childcare and Schools,2
+17031839200,"Financial, Insurance, Real Estate, Legal, and Professional",7
+17031839200,Health Services,18
+17031839200,Personal Service,2
+17031839200,Public Services,1
+17031839200,Religious (except school or residence),4
+17031839200,Retail,3
+17031839200,Service or Programmed Residential Space,1
+17031839200,Social Services & Political Advocacy,8
+17031839200,Trade Service,7
+17031839200,"Wholesale, Storage and Transportation",3
+17031839500,Childcare and Schools,1
+17031839500,Dining,5
+17031839500,"Financial, Insurance, Real Estate, Legal, and Professional",1
+17031839500,Health Services,1
+17031839500,Personal Service,4
+17031839500,Public Services,2
+17031839500,Religious (except school or residence),1
+17031839500,Retail,10
+17031839500,Service or Programmed Residential Space,1
+17031839500,Trade Service,1
+17031839600,Arts and Entertainment,2
+17031839600,Childcare and Schools,4
+17031839600,Dining,4
+17031839600,"Financial, Insurance, Real Estate, Legal, and Professional",1
+17031839600,Fitness,1
+17031839600,Health Services,3
+17031839600,Personal Service,8
+17031839600,Public Services,1
+17031839600,Religious (except school or residence),4
+17031839600,Retail,2
+17031839600,Service or Programmed Residential Space,2
+17031839600,Social Services & Political Advocacy,2
+17031840000,"Financial, Insurance, Real Estate, Legal, and Professional",1
+17031840300,Dining,1
+17031840400,Personal Service,1
+17031840700,Childcare and Schools,1
+17031840700,Dining,4
+17031840700,"Financial, Insurance, Real Estate, Legal, and Professional",1
+17031840700,Health Services,1
+17031840700,Retail,5
+17031841000,Dining,1
+17031841000,"Financial, Insurance, Real Estate, Legal, and Professional",1
+17031841000,Trade Service,1
+17031841100,Arts and Entertainment,1
+17031841100,Dining,3
+17031841100,"Financial, Insurance, Real Estate, Legal, and Professional",1
+17031841100,Health Services,2
+17031841100,Personal Service,2
+17031841100,Public Services,2
+17031841100,Retail,1
+17031841100,Trade Service,2
+17031841200,Arts and Entertainment,1
+17031841200,Childcare and Schools,4
+17031841200,Dining,23
+17031841200,"Financial, Insurance, Real Estate, Legal, and Professional",4
+17031841200,Fitness,2
+17031841200,Health Services,3
+17031841200,Personal Service,6
+17031841200,Religious (except school or residence),3
+17031841200,Retail,16
+17031841200,Social Services & Political Advocacy,2
+17031841200,Trade Service,10
+17031841200,"Wholesale, Storage and Transportation",3
+17031841300,Arts and Entertainment,1
+17031841300,Childcare and Schools,6
+17031841300,Dining,22
+17031841300,"Financial, Insurance, Real Estate, Legal, and Professional",15
+17031841300,Fitness,2
+17031841300,Health Services,6
+17031841300,Industrial,6
+17031841300,Personal Service,17
+17031841300,Public Services,1
+17031841300,Religious (except school or residence),6
+17031841300,Retail,18
+17031841300,Social Services & Political Advocacy,3
+17031841300,Trade Service,7
+17031841300,"Wholesale, Storage and Transportation",8
+17031841500,Childcare and Schools,5
+17031841500,Dining,1
+17031841500,F.I.R.E,3
+17031841500,Non-residential religious,1
+17031841500,Personal Service,1
+17031841500,Public Services,1
+17031841500,Religious (except school or residence),10
+17031841500,Retail,5
+17031841500,Social Services & Political Advocacy,1
+17031841500,Trade Service,4
+17031841700,Dining,1
+17031841800,Arts and Entertainment,6
+17031841800,Childcare and Schools,10
+17031841800,Dining,1
+17031841800,F.I.R.E,3
+17031841800,Health Services,3
+17031841800,Non-residential religious,9
+17031841800,Other,1
+17031841800,Personal Service,1
+17031841800,Public Services,1
+17031841800,Religious (except school or residence),5
+17031841800,Retail,5
+17031841800,Service or Programmed Residential Space,1
+17031841800,Social Services & Political Advocacy,3
+17031841800,Trade Service,2
+17031841800,"Wholesale, Storage and Transportation",1
+17031841900,Arts and Entertainment,5
+17031841900,Childcare and Schools,19
+17031841900,Cook County Land Bank,1
+17031841900,Dining,32
+17031841900,"Financial, Insurance, Real Estate, Legal, and Professional",8
+17031841900,Fitness,1
+17031841900,Health Services,6
+17031841900,Homeless,1
+17031841900,Other,1
+17031841900,Personal Service,8
+17031841900,Public Services,4
+17031841900,Religious (except school or residence),1
+17031841900,Retail,23
+17031841900,Service or Programmed Residential Space,3
+17031841900,Trade Service,8
+17031841900,"Wholesale, Storage and Transportation",6
+17031842000,Childcare and Schools,17
+17031842000,Dining,4
+17031842000,"Financial, Insurance, Real Estate, Legal, and Professional",4
+17031842000,Health Services,2
+17031842000,Industrial,3
+17031842000,Other,3
+17031842000,Personal Service,3
+17031842000,Religious (except school or residence),1
+17031842000,Retail,7
+17031842000,Service or Programmed Residential Space,5
+17031842000,Social Services & Political Advocacy,1
+17031842000,Trade Service,1
+17031842000,"Wholesale, Storage and Transportation",1
+17031842100,Dining,1
+17031842100,Fitness,1
+17031842100,Industrial,3
+17031842100,Personal Service,1
+17031842100,Retail,3
+17031842100,Trade Service,1
+17031842300,Dining,1
+17031842300,F.I.R.E,1
+17031842300,Retail,1
+17031842400,Childcare and Schools,1
+17031842400,Dining,6
+17031842400,F.I.R.E,1
+17031842400,Personal Service,5
+17031842400,Religious (except school or residence),1
+17031842400,Retail,6
+17031842500,Childcare and Schools,3
+17031842500,Dining,1
+17031842500,F.I.R.E,2
+17031842500,Industrial,1
+17031842500,Personal Service,3
+17031842500,Religious (except school or residence),2
+17031842500,Retail,3
+17031842500,Social Services & Political Advocacy,1
+17031842500,Trade Service,6
+17031842500,"Wholesale, Storage and Transportation",1
+17031842600,Arts and Entertainment,1
+17031842600,Childcare and Schools,3
+17031842600,Dining,15
+17031842600,"Financial, Insurance, Real Estate, Legal, and Professional",12
+17031842600,Fitness,2
+17031842600,Health Services,6
+17031842600,Industrial,24
+17031842600,Other,1
+17031842600,Personal Service,7
+17031842600,Public Services,7
+17031842600,Religious (except school or residence),3
+17031842600,Retail,26
+17031842600,Social Services & Political Advocacy,4
+17031842600,Trade Service,32
+17031842600,"Wholesale, Storage and Transportation",33
+17031842800,Arts and Entertainment,2
+17031842800,Childcare and Schools,6
+17031842800,Dining,16
+17031842800,"Financial, Insurance, Real Estate, Legal, and Professional",14
+17031842800,Fitness,2
+17031842800,Health Services,17
+17031842800,Industrial,13
+17031842800,Personal Service,9
+17031842800,Public Services,3
+17031842800,Religious (except school or residence),3
+17031842800,Retail,41
+17031842800,Social Services & Political Advocacy,1
+17031842800,Trade Service,23
+17031842800,"Wholesale, Storage and Transportation",30
+17031842900,Arts and Entertainment,1
+17031842900,Childcare and Schools,9
+17031842900,Dining,24
+17031842900,"Financial, Insurance, Real Estate, Legal, and Professional",6
+17031842900,Fitness,1
+17031842900,Health Services,6
+17031842900,Industrial,2
+17031842900,Other,1
+17031842900,Personal Service,7
+17031842900,Public Services,3
+17031842900,Religious (except school or residence),5
+17031842900,Retail,28
+17031842900,Service or Programmed Residential Space,3
+17031842900,Social Services & Political Advocacy,3
+17031842900,Trade Service,10
+17031842900,"Wholesale, Storage and Transportation",5
+17031843000,Arts and Entertainment,1
+17031843000,Childcare and Schools,5
+17031843000,Dining,10
+17031843000,F.I.R.E,2
+17031843000,Fitness,1
+17031843000,Health Services,6
+17031843000,Industrial,6
+17031843000,Other,1
+17031843000,Personal Service,5
+17031843000,Public Services,3
+17031843000,Religious (except school or residence),10
+17031843000,Retail,14
+17031843000,Service or Programmed Residential Space,2
+17031843000,Social Services & Political Advocacy,5
+17031843000,Trade Service,4
+17031843000,"Wholesale, Storage and Transportation",3
+17031843100,Arts and Entertainment,1
+17031843100,Childcare and Schools,4
+17031843100,Health Services,2
+17031843100,Other,1
+17031843100,Personal Service,3
+17031843100,Religious (except school or residence),7
+17031843100,Retail,1
+17031843100,Service or Programmed Residential Space,1
+17031843100,Social Services & Political Advocacy,1
+17031843100,Trade Service,1
+17031843200,Childcare and Schools,5
+17031843200,Dining,15
+17031843200,"Financial, Insurance, Real Estate, Legal, and Professional",6
+17031843200,Health Services,1
+17031843200,Industrial,11
+17031843200,Personal Service,2
+17031843200,Public Services,1
+17031843200,Religious (except school or residence),1
+17031843200,Retail,37
+17031843200,Social Services & Political Advocacy,4
+17031843200,Trade Service,23
+17031843200,"Wholesale, Storage and Transportation",21
+17031843300,Childcare and Schools,4
+17031843300,F.I.R.E,3
+17031843300,Health Services,7
+17031843300,Industrial,3
+17031843300,Public Services,1
+17031843300,Religious (except school or residence),3
+17031843300,Social Services & Political Advocacy,2
+17031843300,Trade Service,6
+17031843400,Arts and Entertainment,1
+17031843400,Childcare and Schools,1
+17031843400,Dining,4
+17031843400,F.I.R.E,3
+17031843400,Health Services,1
+17031843400,Industrial,7
+17031843400,Personal Service,3
+17031843400,Public Services,1
+17031843400,Religious (except school or residence),2
+17031843400,Retail,15
+17031843400,Trade Service,15
+17031843400,"Wholesale, Storage and Transportation",7
+17031843500,Religious (except school or residence),1
+17031843500,Retail,1
+17031843600,Arts and Entertainment,1
+17031843600,Childcare and Schools,4
+17031843600,Dining,15
+17031843600,"Financial, Insurance, Real Estate, Legal, and Professional",8
+17031843600,Health Services,3
+17031843600,Personal Service,10
+17031843600,Public Services,2
+17031843600,Religious (except school or residence),1
+17031843600,Retail,20
+17031843600,Service or Programmed Residential Space,1
+17031843600,Social Services & Political Advocacy,1
+17031843600,Trade Service,4
+17031843800,Childcare and Schools,2
+17031843800,Dining,2
+17031843800,Fitness,1
+17031843800,Industrial,3
+17031843800,Personal Service,2
+17031843800,Public Services,1
+17031843800,Religious (except school or residence),7
+17031843800,Retail,4
+17031843800,Trade Service,5
+17031843800,"Wholesale, Storage and Transportation",2
+17031843900,Arts and Entertainment,2
+17031843900,Childcare and Schools,2
+17031843900,Dining,2
+17031843900,"Financial, Insurance, Real Estate, Legal, and Professional",1
+17031843900,Fitness,1
+17031843900,Health Services,4
+17031843900,Non-residential religious,1
+17031843900,Other,2
+17031843900,Personal Service,4
+17031843900,Public Services,1
+17031843900,Retail,2
+17031843900,Service or Programmed Residential Space,3
+17031843900,Social Services & Political Advocacy,2
+17031843900,Trade Service,2
+17031844600,Arts and Entertainment,1
+17031844600,Childcare and Schools,1
+17031844600,Dining,1
+17031844600,"Financial, Insurance, Real Estate, Legal, and Professional",1
+17031844600,Fitness,1
+17031844600,Health Services,4
+17031844600,Personal Service,2
+17031844600,Religious (except school or residence),10
+17031844600,Service or Programmed Residential Space,2
+17031844600,Social Services & Political Advocacy,5
+17031844700,Arts and Entertainment,1
+17031844700,Childcare and Schools,5
+17031844700,Health Services,3
+17031844700,Non-residential religious,2
+17031844700,Other,4
+17031844700,Personal Service,1
+17031844700,Public Services,1
+17031844700,Religious (except school or residence),6
+17031844700,Retail,4
+17031844700,Social Services & Political Advocacy,3
+17031844700,Trade Service,2
+17031980100,Dining,3
+17031980100,Personal Service,1
