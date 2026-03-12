@@ -50,19 +50,19 @@ After downloading, unzip the shapefiles in a local directory (e.g., `data/`) and
 
 ## Methodology
 
-1. Input MAPSCorps data** containing latitude and longitude
+1. **Input MAPSCorps data** containing latitude and longitude
 2. Clean the original chi_data csv and imput null values for lat and long
 3. Use the US census geocoder --> accepts 10,000 records at a time so split the data
 4. Apply to each observation in the csv to get tract codes for each long/lat coordinate
 5. Concatenate the split csv files to get same size of the original data
 6. Load ZCTA shapefiles
 7. Convert MAPSCorps points to spatial objects
-8. Spatially join points to census geographies**
+8. **Spatially join points to census geographies**
 
    * Assign 2020 Census tract GEOIDs
    * Optionally assign ZCTAs
-9. Filter to active businesses**
-10. Aggregate counts by PlaceType**
+9. **Filter to active businesses**
+10. **Aggregate counts by PlaceType**
 
    * There are 17 total PlaceType categories
 Export tract- or ZIP-level summary tables
