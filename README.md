@@ -1,5 +1,5 @@
 # MAPSCorps Geocoding Project
-Assigning 2020 Census tracts and ZCTAs to MAPSCorps locations using US Census geocoding tools and shapefiles, enabling tract- and ZIP-level aggregation.
+This was the first project completed as an intern for I.AIM under the mentorship of Dr. Abel Kho and Noah Haines. The task was assigning 2020 Census tracts and ZCTAs to MAPSCorps locations using US Census geocoding tools and shapefiles, enabling tract- and ZIP-level aggregation. None of this data is private. It is entirely publicly available and does not contain any sensitive patient information.
 
 ## Overview
 
