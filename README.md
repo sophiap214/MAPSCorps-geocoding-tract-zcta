@@ -26,7 +26,7 @@ The primary use case is to support analyses where exact latitude/longitude canno
   This Jupyter notebook contains *all* data cleaning, spatial joins, and aggregation logic. There is no standalone script — this notebook is the full pipeline.
 
 * **`Chicago_Data_2019 - Chicago_Data_2019.csv`**
-  The original MAPSCorps dataset provided for 2019. This file includes latitude/longitude but does not include census tract or ZIP code identifiers.
+  The original MAPSCorps dataset provided for 2019. This file includes latitude/longitude but does not include census tract or ZIP code identifiers. Essentially, this CSV contains data on businesses in Chicago-area neighborhoods. The following features are included: Name,  BuildingNumber, Street, Unit, Fraction, GeoArea, City, Zip, PlaceStatus, PlaceType, PlaceSubType, PrivateResidence, MappedYear, Note, PhoneNumber, Email, Geolocation, Lng, Lat, and Website
 
 * **`MAPSCorps_*.csv`**
   These CSV files are the final outputs of the pipeline. They contain aggregated counts of active businesses by PlaceType, reported at either the census tract or ZIP (ZCTA) level, depending on site constraints.
